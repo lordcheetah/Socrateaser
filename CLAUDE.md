@@ -130,6 +130,15 @@ in. When unsure, run light first; promote to full if any of these fire:
   crux to a hidden self-authorship premise). When the stated argument leans on an
   unstated assumption, light mode is flying blind; promote it.
 
+## Running a run
+
+Use the **`run-thesis`** skill (`.claude/skills/run-thesis/`) to orchestrate a full
+run with one command — it encodes this pipeline, the divergence protocol, the
+light/full toggle, and the output layout. Invoke it with a topic/question/thesis and
+an optional `--light`/`--full`. The main session is the orchestrator; the skill is
+the runbook it follows. Hand-driving the agents directly still works, but the skill
+is the reproducible path and keeps the blind protocol from being shortcut.
+
 ## Retrieval
 
 Retrieval is first-class in v1, on both sides:
