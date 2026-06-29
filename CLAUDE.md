@@ -139,6 +139,28 @@ an optional `--light`/`--full`. The main session is the orchestrator; the skill 
 the runbook it follows. Hand-driving the agents directly still works, but the skill
 is the reproducible path and keeps the blind protocol from being shortcut.
 
+## Refining a run (continue, don't restart)
+
+After a run, the author can react — clarify what they meant, say what they accept or
+reject — and the system **reuses the existing artifacts and only redoes what the
+reaction touches**, via the **`refine-thesis`** skill (`.claude/skills/refine-thesis/`).
+
+The load-bearing rule, which protects the anti-convergence design: **the author's
+input is tested, never accommodated.** The refiner never edits a council position to
+agree with the author. Instead it routes the reaction:
+- **Reframe** ("by X I meant Y") → updates the thesis; re-runs framer/reconstructor/
+  caster and only the affected seats.
+- **Disagree** ("I don't buy the naturalist's move") → the author's objection becomes
+  a steelmanned challenge that the named seat must answer or concede — a targeted
+  one-seat round, not a rewrite.
+- **Agree / concede** ("the realist convinced me on P3") → prunes effort there;
+  marks it settled in the crux; spends no new tokens defending it.
+- **Deepen** ("push harder on the meta-crux") → re-runs the tied seats and functional
+  role with sharper focus.
+- **Add a position** → summons a new specialist, blind-drafts it, integrates it.
+
+The synthesizer and communicator always re-run (cheap relative to the council).
+
 ## Retrieval
 
 Retrieval is first-class in v1, on both sides:
@@ -154,6 +176,40 @@ Critic-style agents emit a verdict token on the **first line**, mirroring the ga
 studio's gate format, so the orchestrator can read the verdict without parsing
 prose. Examples: `SELF-APPLICATION: SURVIVES`, `DISTINCTION: CONCERNS`,
 `ATTRIBUTION: VERIFIED`.
+
+## Output file headers
+
+Every run output file **must begin with a header block** so a file is legible on
+its own (e.g. read on a phone, away from the repo tree). The orchestrator
+constructs it and has each agent write it verbatim as the first lines of its file,
+before the file's normal content. Two variants:
+
+**Council / specialist files** (`02-council/*.md`):
+```markdown
+# <Run title> — <Seat> (council)
+> **Run:** <slug> · **Mode:** <light|full> · **Stage:** Council (blind draft[, + attack])
+> **Thesis:** <the one-line thesis>
+> **Seat:** <Seat name> — <register, e.g. "hard naturalist, Quine–Dennett">
+> **Defending:** <assigned verdict + premise, verbatim from the cast brief>
+
+---
+```
+
+**Pipeline / functional files** (framer, reconstructor, caster, the functional
+roles, synthesizer, communicator):
+```markdown
+# <Run title> — <File role, e.g. "Crux map">
+> **Run:** <slug> · **Mode:** <light|full> · **Stage:** <stage label>
+> **Thesis:** <the one-line thesis>
+
+---
+```
+
+The **Run title** is set by the framer (`## Run title` in `00-thesis.md`); the
+orchestrator reads it once and threads it into every subsequent header. Keep the
+verdict token (e.g. `VERDICT:`, `SELF-APPLICATION: SURVIVES`) as the first line
+*after* the header block — it is no longer line 1 of the file, but stays at the top
+and greppable.
 
 ## Run output layout
 

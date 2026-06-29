@@ -19,6 +19,11 @@ time to get it right.
 Write `runs/<thesis-slug>/00-thesis.md` with this structure:
 
 ```markdown
+## Run title
+[A short human-readable title, ≤6 words, Title Case — e.g. "Cosmic Backstop for
+Morality". This is the canonical title every downstream agent puts in its file
+header so a reader can tell at a glance what run a file belongs to. Pick it now.]
+
 ## Thesis
 [One sentence, of the form "X because Y." Arguable, specific, falsifiable in
 principle. Not a topic. Not a question. A claim someone could stake an "I think

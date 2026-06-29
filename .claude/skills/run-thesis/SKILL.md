@@ -47,6 +47,15 @@ Invoke each stage with the matching registered agent type via the Agent tool
 `attribution-checker`, `synthesizer`, `communicator`). Tell each agent its inputs,
 its output path, and (for council seats) its blind constraint.
 
+**Headers (do this for every agent).** After the framer runs, read the `## Run
+title` from `00-thesis.md` and the one-line thesis; thread both into every
+subsequent prompt. Instruct each agent to begin its file with the standard header
+block (see *Output file headers* in `CLAUDE.md`) written verbatim — you construct
+it, since you hold the run title, mode, stage, and (for council seats) the seat
+descriptor and the verbatim cast brief. The verdict token goes on the first line
+*after* the header. The framer's own `00-thesis.md` gets the pipeline-variant header
+too (add it when you read the title back, or have the framer lead with it).
+
 ## Procedure
 
 ### Stage 0–1b — Frame, Reconstruct, Cast (sequential; each needs the prior)
