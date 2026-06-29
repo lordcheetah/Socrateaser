@@ -1,3 +1,11 @@
+# Basic-Desert Moral Responsibility — Naturalist (council)
+> **Run:** moral-responsibility · **Mode:** full · **Stage:** Council
+> **Thesis:** No one is ever morally responsible in the basic-desert sense, because basic desert requires being the ultimate source of one's action, and no one is ever the ultimate source of what they do.
+> **Seat:** Naturalist — hard naturalist, Quine–Dennett register
+> **Defending:** VERDICT: The thesis is TRUE — no one is ever morally responsible in the basic-desert sense, because the natural causal order in which every action is fixed by genes, upbringing, prior character, and chance leaves no room for a buck-stopping originator, and an indeterministic gap supplies only noise, never authorship.
+
+---
+
 VERDICT: The thesis is TRUE — no one is ever morally responsible in the basic-desert sense, because the natural causal order in which every action is fixed by genes, upbringing, prior character, and chance leaves no room for a buck-stopping originator, and an indeterministic gap supplies only noise, never authorship.
 
 ## Case

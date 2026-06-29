@@ -1,3 +1,11 @@
+# Basic-Desert Moral Responsibility — Contemplative (council)
+> **Run:** moral-responsibility · **Mode:** full · **Stage:** Council
+> **Thesis:** No one is ever morally responsible in the basic-desert sense, because basic desert requires being the ultimate source of one's action, and no one is ever the ultimate source of what they do.
+> **Seat:** Contemplative — Madhyamaka Buddhist, Nāgārjuna
+> **Defending:** VERDICT: The question "is anyone ever a basic-desert source?" is ill-posed, not answered — both the thesis and its opponents reify a self-existent bearer of intrinsic desert that, on examination, is a construction and the craving to track which is itself the confusion to be dissolved.
+
+---
+
 VERDICT: The question "is anyone ever a basic-desert source?" is ill-posed, not answered — both the thesis and its opponents reify a self-existent bearer of intrinsic desert that, on examination, is a construction and the craving to track which is itself the confusion to be dissolved.
 
 ## Case

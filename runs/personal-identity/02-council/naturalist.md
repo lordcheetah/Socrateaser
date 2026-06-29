@@ -1,3 +1,11 @@
+# Personal Identity Over Time — Naturalist (council)
+> **Run:** personal-identity · **Mode:** light · **Stage:** Council
+> **Thesis:** A person persists over time because, and only because, of psychological continuity (overlapping memory, intention, character) — not biological continuity.
+> **Seat:** Naturalist — hard naturalist, Quine–Dennett register
+> **Defending:** VERDICT: FALSE — psychological continuity is neither necessary nor sufficient for our persistence, because what we fundamentally are is a human animal whose identity is fixed biologically, and the psychological "person" is at best one thinker too many.
+
+---
+
 VERDICT: FALSE — psychological continuity is neither necessary nor sufficient for our persistence, because what we fundamentally are is a human animal whose identity is fixed biologically, and the psychological "person" is at best one thinker too many.
 
 ## Case

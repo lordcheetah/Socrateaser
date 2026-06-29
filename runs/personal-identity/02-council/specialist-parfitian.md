@@ -1,3 +1,11 @@
+# Personal Identity Over Time — Specialist: parfitian (council)
+> **Run:** personal-identity · **Mode:** light · **Stage:** Council
+> **Thesis:** A person persists over time because, and only because, of psychological continuity (overlapping memory, intention, character) — not biological continuity.
+> **Seat:** Specialist: parfitian — summoned specialist
+> **Defending:** POSITION: Parfitian reductionist (Derek Parfit, *Reasons and Persons*, Part III) — personal identity just consists in physical/psychological continuity holding, there is no further deep fact, and "identity is not what matters in survival."
+
+---
+
 POSITION: Parfitian reductionist (Derek Parfit, *Reasons and Persons*, Part III) — personal identity just consists in physical/psychological continuity holding, there is no further deep fact, and "identity is not what matters in survival."
 VERDICT: The thesis is half right and fatally over-stated: psychological continuity is what we should care about, but the "because, and ONLY because *identity*" framing is the error, because the relation that matters (Relation R) can hold one-to-many in fission, and so cannot be identity at all.
 

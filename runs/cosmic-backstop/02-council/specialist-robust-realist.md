@@ -1,3 +1,11 @@
+# Cosmic Backstop for Morality — Specialist: robust realist (council)
+> **Run:** cosmic-backstop · **Mode:** full · **Stage:** Council
+> **Thesis:** There is no accessible cosmic backstop for morality, because warrant requires causal/practical contact and a mind-independent normative ground is by its nature sealed off from such contact.
+> **Seat:** Specialist: robust realist — summoned specialist
+> **Defending:** POSITION: A robust non-naturalist moral realist in the Parfit / Enoch register — normative truths are mind-independent, non-natural, necessary, and known a priori by rational reflection, not through causal or practical "contact."
+
+---
+
 POSITION: A robust non-naturalist moral realist in the Parfit / Enoch register — normative truths are mind-independent, non-natural, necessary, and known a priori by rational reflection, not through causal or practical "contact."
 VERDICT: The thesis is FALSE: P2 is false, because warrant for normative belief does not require causal or practical contact with the normative ground, and the demand for such contact either presupposes a causal theory of knowledge that even its own proponents (Benacerraf, Field) abandoned, or simply restates naturalism as if it were a neutral epistemic principle — begging the very question at issue.
 

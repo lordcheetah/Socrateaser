@@ -1,3 +1,11 @@
+# Personal Identity Over Time — Phenomenologist (council)
+> **Run:** personal-identity · **Mode:** light · **Stage:** Council
+> **Thesis:** A person persists over time because, and only because, of psychological continuity (overlapping memory, intention, character) — not biological continuity.
+> **Seat:** Phenomenologist — continental/phenomenological, Husserl–Merleau-Ponty
+> **Defending:** VERDICT: The thesis is ill-posed at P1–P2: it begins by chopping the self into "person-stages" and then hunts for the relation that re-binds the slices, but the self is given in experience as a single temporal flow that is never assembled out of stages in the first place — so psychological continuity is not a wrong answer, it is an answer to a question the lived self does not raise.
+
+---
+
 VERDICT: The thesis is ill-posed at P1–P2: it begins by chopping the self into "person-stages" and then hunts for the relation that re-binds the slices, but the self is given in experience as a single temporal flow that is never assembled out of stages in the first place — so psychological continuity is not a wrong answer, it is an answer to a question the lived self does not raise.
 
 ## Case

@@ -1,4 +1,10 @@
-# Naturalist — blind draft
+# Cosmic Backstop for Morality — Naturalist (council)
+> **Run:** cosmic-backstop · **Mode:** full · **Stage:** Council
+> **Thesis:** There is no accessible cosmic backstop for morality, because warrant requires causal/practical contact and a mind-independent normative ground is by its nature sealed off from such contact.
+> **Seat:** Naturalist — hard naturalist, Quine–Dennett register
+> **Defending:** VERDICT: The thesis is TRUE — there is no accessible cosmic backstop for morality, because access requires that the ground figure in the causal/practical story of why our judgments track it, and a mind-independent normative ground by construction figures in no such story, leaving "we just intuit it" as a coincidence dressed up as knowledge.
+
+---
 
 VERDICT: The thesis is TRUE — there is no accessible cosmic backstop for morality, because access requires that the ground figure in the causal/practical story of why our judgments track it, and a mind-independent normative ground by construction figures in no such story, leaving "we just intuit it" as a coincidence dressed up as knowledge.
 

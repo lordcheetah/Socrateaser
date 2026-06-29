@@ -1,3 +1,9 @@
+# Basic-Desert Moral Responsibility — Functional — distinction watchdog
+> **Run:** moral-responsibility · **Mode:** full · **Stage:** Functional pass
+> **Thesis:** No one is ever morally responsible in the basic-desert sense, because basic desert requires being the ultimate source of one's action, and no one is ever the ultimate source of what they do.
+
+---
+
 DISTINCTION: CONCERNS — 7 issues
 
 ## Equivocation

@@ -1,3 +1,9 @@
+# Basic-Desert Moral Responsibility — Crux map
+> **Run:** moral-responsibility · **Mode:** full · **Stage:** Synthesis
+> **Thesis:** No one is ever morally responsible in the basic-desert sense, because basic desert requires being the ultimate source of one's action, and no one is ever the ultimate source of what they do.
+
+---
+
 ## The crux
 
 Every position agrees on the metaphysics — no one is a regress-ending, buck-stopping

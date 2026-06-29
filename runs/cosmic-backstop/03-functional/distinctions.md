@@ -1,3 +1,9 @@
+# Cosmic Backstop for Morality — Functional — distinction watchdog
+> **Run:** cosmic-backstop · **Mode:** full · **Stage:** Functional pass
+> **Thesis:** There is no accessible cosmic backstop for morality, because warrant requires causal/practical contact and a mind-independent normative ground is by its nature sealed off from such contact.
+
+---
+
 DISTINCTION: CONCERNS — 6 issues
 
 > Run slug: `cosmic-backstop`

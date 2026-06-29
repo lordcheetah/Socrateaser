@@ -1,3 +1,11 @@
+# Representationalism vs Illusionism — Phenomenologist (council)
+> **Run:** representationalism-vs-illusionism · **Mode:** full · **Stage:** Council
+> **Thesis:** Transparent representationalism is a better model of phenomenal consciousness than illusionism because it saves the appearances at lower explanatory cost — without convicting introspection of systematic error.
+> **Seat:** Phenomenologist — continental/phenomenological, Husserl–Merleau-Ponty
+> **Defending:** VERDICT: TRUE — transparent representationalism is the better model, because introspection of experience is broadly *veridical* about the world it discloses, and the illusionist's "global misrepresentation" posit is the artifact of a Cartesian picture (an inner screen with feely properties) that careful description of lived experience never delivers in the first place.
+
+---
+
 VERDICT: TRUE — transparent representationalism is the better model, because introspection of experience is broadly *veridical* about the world it discloses, and the illusionist's "global misrepresentation" posit is the artifact of a Cartesian picture (an inner screen with feely properties) that careful description of lived experience never delivers in the first place.
 
 ## Case

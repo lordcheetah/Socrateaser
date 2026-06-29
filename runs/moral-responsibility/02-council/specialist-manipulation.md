@@ -1,3 +1,11 @@
+# Basic-Desert Moral Responsibility — Specialist: manipulation (council)
+> **Run:** moral-responsibility · **Mode:** full · **Stage:** Council
+> **Thesis:** No one is ever morally responsible in the basic-desert sense, because basic desert requires being the ultimate source of one's action, and no one is ever the ultimate source of what they do.
+> **Seat:** Specialist: manipulation — summoned specialist
+> **Defending:** POSITION: Hard incompatibilist, Pereboom register — defending P1 (basic desert requires ultimate sourcehood) via the four-case manipulation argument.
+
+---
+
 POSITION: Hard incompatibilist, Pereboom register — defending P1 (basic desert requires ultimate sourcehood) via the four-case manipulation argument.
 VERDICT: The thesis is true: the manipulation argument shows that every compatibilist condition can be met without basic desert, so basic desert requires a sourcehood we never have, and no one is ever morally responsible in that sense.
 

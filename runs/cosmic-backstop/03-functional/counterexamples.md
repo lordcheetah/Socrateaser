@@ -1,7 +1,8 @@
-# 03 — Counterexamples: the cosmic backstop
+# Cosmic Backstop for Morality — Functional — counterexample generator
+> **Run:** cosmic-backstop · **Mode:** full · **Stage:** Functional pass
+> **Thesis:** There is no accessible cosmic backstop for morality, because warrant requires causal/practical contact and a mind-independent normative ground is by its nature sealed off from such contact.
 
-> Run slug: `cosmic-backstop`
-> Manufactured against `00-thesis.md` and `01-reconstruction.md`.
+---
 
 COUNTEREXAMPLES: 3 strong | 2 narrowing | 1 weak
 

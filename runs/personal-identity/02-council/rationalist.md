@@ -1,3 +1,11 @@
+# Personal Identity Over Time — Rationalist (council)
+> **Run:** personal-identity · **Mode:** light · **Stage:** Council
+> **Thesis:** A person persists over time because, and only because, of psychological continuity (overlapping memory, intention, character) — not biological continuity.
+> **Seat:** Rationalist — Kantian/rationalist
+> **Defending:** VERDICT: TRUE — the self is essentially a self-conscious rational unity whose persistence is constituted by psychological continuity, while the human animal that biologically persists is a distinct, coincident thing; psychology is therefore necessary and sufficient for *our* identity, strictly numerically construed.
+
+---
+
 VERDICT: TRUE — the self is essentially a self-conscious rational unity whose persistence is constituted by psychological continuity, while the human animal that biologically persists is a distinct, coincident thing; psychology is therefore necessary and sufficient for *our* identity, strictly numerically construed.
 
 ## Case

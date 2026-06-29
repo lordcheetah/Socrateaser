@@ -1,3 +1,9 @@
+# Representationalism vs Illusionism — Casting
+> **Run:** representationalism-vs-illusionism · **Mode:** full · **Stage:** Cast
+> **Thesis:** Transparent representationalism is a better model of phenomenal consciousness than illusionism because it saves the appearances at lower explanatory cost — without convicting introspection of systematic error.
+
+---
+
 ## Verdict space
 
 The thesis is meta-theoretic: *transparent representationalism is a better model

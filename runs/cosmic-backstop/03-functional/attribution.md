@@ -1,3 +1,9 @@
+# Cosmic Backstop for Morality — Functional — attribution checker
+> **Run:** cosmic-backstop · **Mode:** full · **Stage:** Functional pass
+> **Thesis:** There is no accessible cosmic backstop for morality, because warrant requires causal/practical contact and a mind-independent normative ground is by its nature sealed off from such contact.
+
+---
+
 ATTRIBUTION: CONCERNS — 3 issues
 
 Scope: verified every attribution to a named thinker/school across the five 02-council

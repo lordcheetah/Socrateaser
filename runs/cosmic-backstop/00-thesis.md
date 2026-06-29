@@ -1,7 +1,8 @@
-# 00 — Thesis: the cosmic backstop
+# Cosmic Backstop for Morality — Thesis & framing
+> **Run:** cosmic-backstop · **Mode:** full · **Stage:** Frame
+> **Thesis:** There is no accessible cosmic backstop for morality, because warrant requires causal/practical contact and a mind-independent normative ground is by its nature sealed off from such contact.
 
-> Run slug: `cosmic-backstop`
-> Framed from `theses/cosmic-backstop.md`.
+---
 
 ## Thesis
 

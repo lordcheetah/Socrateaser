@@ -1,3 +1,9 @@
+# Personal Identity Over Time — Thesis & framing
+> **Run:** personal-identity · **Mode:** light · **Stage:** Frame
+> **Thesis:** A person persists over time because, and only because, of psychological continuity (overlapping memory, intention, character) — not biological continuity.
+
+---
+
 ## Thesis
 A person at a later time is the same person as someone earlier because, and only because, the two are linked by continuity of psychology (overlapping chains of memory, intention, and character), not by continuity of the same biological organism.
 

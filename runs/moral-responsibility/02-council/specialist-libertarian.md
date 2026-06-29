@@ -1,3 +1,11 @@
+# Basic-Desert Moral Responsibility — Specialist: libertarian (council)
+> **Run:** moral-responsibility · **Mode:** full · **Stage:** Council
+> **Thesis:** No one is ever morally responsible in the basic-desert sense, because basic desert requires being the ultimate source of one's action, and no one is ever the ultimate source of what they do.
+> **Seat:** Specialist: libertarian — summoned specialist
+> **Defending:** POSITION: Libertarian about free will in the Robert Kane (event-causal) / Timothy O'Connor (agent-causal) register — we possess the ultimate sourcehood basic desert requires because libertarian agency genuinely breaks the causal regress.
+
+---
+
 POSITION: Libertarian about free will in the Robert Kane (event-causal) / Timothy O'Connor (agent-causal) register — we possess the ultimate sourcehood basic desert requires because libertarian agency genuinely breaks the causal regress.
 VERDICT: The thesis is false: I concede P1 — basic desert does require ultimate sourcehood — and deny P2, because at least some human choices (Kanean self-forming actions, or O'Connor-style agent-caused decisions) make us genuine ultimate sources, so the regress the skeptic relies on is in fact broken.
 

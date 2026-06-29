@@ -1,4 +1,10 @@
-# Contemplative — Madhyamaka
+# Cosmic Backstop for Morality — Contemplative (council)
+> **Run:** cosmic-backstop · **Mode:** full · **Stage:** Council
+> **Thesis:** There is no accessible cosmic backstop for morality, because warrant requires causal/practical contact and a mind-independent normative ground is by its nature sealed off from such contact.
+> **Seat:** Contemplative — Madhyamaka Buddhist, Nāgārjuna
+> **Defending:** VERDICT: The thesis's conclusion is correct at the ultimate level — there is no svabhāva-bearing backstop to find — but its argument and its anxiety both grow from a single confusion: it treats "ground" as something morality must have *behind* it, and so reads the absence of an inherent ground as a loss; on the Madhyamaka analysis there was never such a thing to lose, morality functions perfectly well as a dependently-arisen convention, and the craving in P1 is the disease, not the diagnosis.
+
+---
 
 VERDICT: The thesis's conclusion is correct at the ultimate level — there is no svabhāva-bearing backstop to find — but its argument and its anxiety both grow from a single confusion: it treats "ground" as something morality must have *behind* it, and so reads the absence of an inherent ground as a loss; on the Madhyamaka analysis there was never such a thing to lose, morality functions perfectly well as a dependently-arisen convention, and the craving in P1 is the disease, not the diagnosis.
 

@@ -1,3 +1,11 @@
+# Representationalism vs Illusionism — Specialist: realist (council)
+> **Run:** representationalism-vs-illusionism · **Mode:** full · **Stage:** Council
+> **Thesis:** Transparent representationalism is a better model of phenomenal consciousness than illusionism because it saves the appearances at lower explanatory cost — without convicting introspection of systematic error.
+> **Seat:** Specialist: realist — summoned specialist
+> **Defending:** POSITION: Phenomenal realist about consciousness in the Chalmers / Goff register — the hard problem is genuine, phenomenal consciousness is real and irreducible, and representational content does not constitute felt qualitative character.
+
+---
+
 POSITION: Phenomenal realist about consciousness in the Chalmers / Goff register — the hard problem is genuine, phenomenal consciousness is real and irreducible, and representational content does not constitute felt qualitative character.
 VERDICT: The thesis is false: transparent representationalism is not a *better* model than illusionism, because it too fails to account for phenomenal consciousness — it merely relocates the felt quality into "content" and hides the failure that illusionism at least announces, so the comparative claim is misconceived.
 

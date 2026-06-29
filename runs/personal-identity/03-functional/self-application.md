@@ -1,3 +1,9 @@
+# Personal Identity Over Time — Functional — self-application tester
+> **Run:** personal-identity · **Mode:** light · **Stage:** Functional pass
+> **Thesis:** A person persists over time because, and only because, of psychological continuity (overlapping memory, intention, character) — not biological continuity.
+
+---
+
 SELF-APPLICATION: N/A — thesis is not self-referential
 
 ## The test

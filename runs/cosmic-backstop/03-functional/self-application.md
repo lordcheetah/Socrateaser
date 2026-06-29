@@ -1,7 +1,8 @@
-# 03 — Self-application: the cosmic backstop
+# Cosmic Backstop for Morality — Functional — self-application tester
+> **Run:** cosmic-backstop · **Mode:** full · **Stage:** Functional pass
+> **Thesis:** There is no accessible cosmic backstop for morality, because warrant requires causal/practical contact and a mind-independent normative ground is by its nature sealed off from such contact.
 
-> Run slug: `cosmic-backstop`
-> Tests whether the thesis survives being applied to itself.
+---
 
 SELF-APPLICATION: SURVIVES
 

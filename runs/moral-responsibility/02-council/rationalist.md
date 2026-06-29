@@ -1,3 +1,11 @@
+# Basic-Desert Moral Responsibility — Rationalist (council)
+> **Run:** moral-responsibility · **Mode:** full · **Stage:** Council
+> **Thesis:** No one is ever morally responsible in the basic-desert sense, because basic desert requires being the ultimate source of one's action, and no one is ever the ultimate source of what they do.
+> **Seat:** Rationalist — Kantian/rationalist
+> **Defending:** VERDICT: The thesis is FALSE — P1 is false, because conceptual analysis of "deserves in virtue of who they are" yields a condition the agent can satisfy (rational ownership of and guidance-control over a reasons-responsive mechanism), not the regress-ending sourcehood the skeptic stipulates.
+
+---
+
 VERDICT: The thesis is FALSE — P1 is false, because conceptual analysis of "deserves in virtue of who they are" yields a condition the agent can satisfy (rational ownership of and guidance-control over a reasons-responsive mechanism), not the regress-ending sourcehood the skeptic stipulates.
 
 ## Case

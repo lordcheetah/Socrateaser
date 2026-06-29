@@ -1,4 +1,10 @@
-# Phenomenologist — blind draft
+# Cosmic Backstop for Morality — Phenomenologist (council)
+> **Run:** cosmic-backstop · **Mode:** full · **Stage:** Council
+> **Thesis:** There is no accessible cosmic backstop for morality, because warrant requires causal/practical contact and a mind-independent normative ground is by its nature sealed off from such contact.
+> **Seat:** Phenomenologist — continental/phenomenological, Husserl–Merleau-Ponty
+> **Defending:** VERDICT: The thesis is ill-posed, because P4 (and the P1/P2 "access" picture feeding it) presupposes a knower-here / ground-there gap that lived moral experience never contains — moral norms are constituted in our engaged being-in-the-world, neither a mind-independent backstop we "make contact" with nor a projection we throw outward, so the whole "contact-or-nothing" frame is a Cartesian artifact rather than a real fork.
+
+---
 
 VERDICT: The thesis is ill-posed, because P4 (and the P1/P2 "access" picture feeding it) presupposes a knower-here / ground-there gap that lived moral experience never contains — moral norms are constituted in our engaged being-in-the-world, neither a mind-independent backstop we "make contact" with nor a projection we throw outward, so the whole "contact-or-nothing" frame is a Cartesian artifact rather than a real fork.
 

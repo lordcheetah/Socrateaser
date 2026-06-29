@@ -1,3 +1,9 @@
+# Personal Identity Over Time — Functional — attribution checker
+> **Run:** personal-identity · **Mode:** light · **Stage:** Functional pass
+> **Thesis:** A person persists over time because, and only because, of psychological continuity (overlapping memory, intention, character) — not biological continuity.
+
+---
+
 ATTRIBUTION: CONCERNS — 3 issues
 
 ## Claims checked

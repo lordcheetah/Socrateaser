@@ -1,3 +1,9 @@
+# Basic-Desert Moral Responsibility — Thesis & framing
+> **Run:** moral-responsibility · **Mode:** full · **Stage:** Frame
+> **Thesis:** No one is ever morally responsible in the basic-desert sense, because basic desert requires being the ultimate source of one's action, and no one is ever the ultimate source of what they do.
+
+---
+
 ## Thesis
 No one is ever morally responsible in the basic-desert sense — never such that they
 intrinsically deserve blame or praise for its own sake — because basic desert

@@ -1,3 +1,11 @@
+# Basic-Desert Moral Responsibility — Phenomenologist (council)
+> **Run:** moral-responsibility · **Mode:** full · **Stage:** Council
+> **Thesis:** No one is ever morally responsible in the basic-desert sense, because basic desert requires being the ultimate source of one's action, and no one is ever the ultimate source of what they do.
+> **Seat:** Phenomenologist — continental/phenomenological, Husserl–Merleau-Ponty
+> **Defending:** VERDICT: The thesis is FALSE because P1 is false — desert is not a debt that ultimate sourcehood pays off but a fittingness given inside the lived second-personal stance of resentment, gratitude, and address; the "ultimate source" requirement is a theory imposed on a phenomenon that never asked for it.
+
+---
+
 VERDICT: The thesis is FALSE because P1 is false — desert is not a debt that ultimate sourcehood pays off but a fittingness given inside the lived second-personal stance of resentment, gratitude, and address; the "ultimate source" requirement is a theory imposed on a phenomenon that never asked for it.
 
 ## Case

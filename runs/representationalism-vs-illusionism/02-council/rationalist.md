@@ -1,3 +1,11 @@
+# Representationalism vs Illusionism — Rationalist (council)
+> **Run:** representationalism-vs-illusionism · **Mode:** full · **Stage:** Council
+> **Thesis:** Transparent representationalism is a better model of phenomenal consciousness than illusionism because it saves the appearances at lower explanatory cost — without convicting introspection of systematic error.
+> **Seat:** Rationalist — Kantian/rationalist
+> **Defending:** VERDICT: FALSE — the thesis cannot be established, because its load-bearing premise (P3, resting on the suppressed SP-A) is not a priori secured: representational content can at most co-vary with felt character, never constitute it, so transparency relocates the explanandum rather than explaining it, and neither model saves the phenomena.
+
+---
+
 VERDICT: FALSE — the thesis cannot be established, because its load-bearing premise (P3, resting on the suppressed SP-A) is not a priori secured: representational content can at most co-vary with felt character, never constitute it, so transparency relocates the explanandum rather than explaining it, and neither model saves the phenomena.
 
 ## Case

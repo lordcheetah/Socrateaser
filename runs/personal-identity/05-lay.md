@@ -1,3 +1,9 @@
+# Personal Identity Over Time — Lay version
+> **Run:** personal-identity · **Mode:** light · **Stage:** Communication
+> **Thesis:** A person persists over time because, and only because, of psychological continuity (overlapping memory, intention, character) — not biological continuity.
+
+---
+
 ## The question, plainly
 
 Are you the same person you were at five years old because of an unbroken chain of

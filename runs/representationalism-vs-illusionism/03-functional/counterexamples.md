@@ -1,3 +1,9 @@
+# Representationalism vs Illusionism — Functional — counterexample generator
+> **Run:** representationalism-vs-illusionism · **Mode:** full · **Stage:** Functional pass
+> **Thesis:** Transparent representationalism is a better model of phenomenal consciousness than illusionism because it saves the appearances at lower explanatory cost — without convicting introspection of systematic error.
+
+---
+
 COUNTEREXAMPLES: 7 strong | 2 weak | none decisive alone, but Cases 1 and 4 jointly narrow the thesis significantly
 
 ---

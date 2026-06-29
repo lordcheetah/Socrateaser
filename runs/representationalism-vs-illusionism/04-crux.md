@@ -1,3 +1,9 @@
+# Representationalism vs Illusionism — Crux map
+> **Run:** representationalism-vs-illusionism · **Mode:** full · **Stage:** Synthesis (crux map)
+> **Thesis:** Transparent representationalism is a better model of phenomenal consciousness than illusionism because it saves the appearances at lower explanatory cost — without convicting introspection of systematic error.
+
+---
+
 ## The crux
 
 There is one fork, and it sits one level above where the loudest fight happens. The

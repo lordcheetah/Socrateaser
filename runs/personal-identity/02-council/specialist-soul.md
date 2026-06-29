@@ -1,3 +1,11 @@
+# Personal Identity Over Time — Specialist: soul (council)
+> **Run:** personal-identity · **Mode:** light · **Stage:** Council
+> **Thesis:** A person persists over time because, and only because, of psychological continuity (overlapping memory, intention, character) — not biological continuity.
+> **Seat:** Specialist: soul — summoned specialist
+> **Defending:** POSITION: Substance dualist / soul theorist about personal identity (Richard Swinburne, "Personal Identity: The Dualist Theory" 1984; *The Evolution of the Soul* 1986/1997). Personal identity consists in the persistence of one and the same immaterial soul; neither psychological nor bodily/biological continuity constitutes identity — they are at most evidence of it.
+
+---
+
 POSITION: Substance dualist / soul theorist about personal identity (Richard Swinburne, "Personal Identity: The Dualist Theory" 1984; *The Evolution of the Soul* 1986/1997). Personal identity consists in the persistence of one and the same immaterial soul; neither psychological nor bodily/biological continuity constitutes identity — they are at most evidence of it.
 VERDICT: The thesis is false, and false in an instructive way — it correctly rejects the bodily criterion but then enthrones a psychological criterion that the very fission cases its tradition relies on prove cannot constitute identity either; what constitutes identity is a third-kind fact, the continuing of the same soul, which no inventory of memory-chains or organisms can settle.
 

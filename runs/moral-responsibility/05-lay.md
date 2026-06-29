@@ -1,3 +1,9 @@
+# Basic-Desert Moral Responsibility — Lay version
+> **Run:** moral-responsibility · **Mode:** full · **Stage:** Communication
+> **Thesis:** No one is ever morally responsible in the basic-desert sense, because basic desert requires being the ultimate source of one's action, and no one is ever the ultimate source of what they do.
+
+---
+
 ## The question, plainly
 
 Does anyone ever truly *deserve* blame or praise just for what they did, full stop,

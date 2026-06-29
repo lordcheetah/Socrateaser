@@ -1,3 +1,9 @@
+# Representationalism vs Illusionism — Functional — hidden-premise excavator
+> **Run:** representationalism-vs-illusionism · **Mode:** full · **Stage:** Functional pass
+> **Thesis:** Transparent representationalism is a better model of phenomenal consciousness than illusionism because it saves the appearances at lower explanatory cost — without convicting introspection of systematic error.
+
+---
+
 HIDDEN-PREMISES: 9 found
 
 ## Suppressed premises

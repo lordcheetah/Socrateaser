@@ -1,3 +1,9 @@
+# Basic-Desert Moral Responsibility — Reconstruction
+> **Run:** moral-responsibility · **Mode:** full · **Stage:** Reconstruct
+> **Thesis:** No one is ever morally responsible in the basic-desert sense, because basic desert requires being the ultimate source of one's action, and no one is ever the ultimate source of what they do.
+
+---
+
 ## Standard form
 
 P1. If an agent is morally responsible for an action in the basic-desert sense,

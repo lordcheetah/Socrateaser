@@ -1,6 +1,8 @@
-# The cosmic backstop, for the rest of us
+# Cosmic Backstop for Morality — Lay version
+> **Run:** cosmic-backstop · **Mode:** full · **Stage:** Communication
+> **Thesis:** There is no accessible cosmic backstop for morality, because warrant requires causal/practical contact and a mind-independent normative ground is by its nature sealed off from such contact.
 
-> A plain-language version of the crux map in `04-crux.md`. Nothing here is re-decided; this only translates.
+---
 
 ## The question, plainly
 

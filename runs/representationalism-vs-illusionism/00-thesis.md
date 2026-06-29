@@ -1,3 +1,9 @@
+# Representationalism vs Illusionism — Thesis & framing
+> **Run:** representationalism-vs-illusionism · **Mode:** full · **Stage:** Frame
+> **Thesis:** Transparent representationalism is a better model of phenomenal consciousness than illusionism because it saves the appearances at lower explanatory cost — without convicting introspection of systematic error.
+
+---
+
 ## Thesis
 Transparent representationalism is a better model of phenomenal consciousness than illusionism because it saves the appearances at lower cost: it explains why introspection reports qualitative character *without* convicting introspection of systematic error, whereas illusionism can only discharge the same explanandum by positing a global introspective misrepresentation it cannot itself non-circularly motivate.
 

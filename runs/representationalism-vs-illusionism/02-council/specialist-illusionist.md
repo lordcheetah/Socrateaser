@@ -1,3 +1,11 @@
+# Representationalism vs Illusionism — Specialist: illusionist (council)
+> **Run:** representationalism-vs-illusionism · **Mode:** full · **Stage:** Council
+> **Thesis:** Transparent representationalism is a better model of phenomenal consciousness than illusionism because it saves the appearances at lower explanatory cost — without convicting introspection of systematic error.
+> **Seat:** Specialist: illusionist — summoned specialist
+> **Defending:** POSITION: Strong illusionist about phenomenal consciousness, Keith Frankish register ("Illusionism as a Theory of Consciousness"). Phenomenal consciousness as standardly conceived does not exist; introspection systematically misrepresents inner states as having phenomenal/qualitative character (the illusion), and the real explanatory task is the illusion problem / meta-problem: explain why we are so powerfully convinced we have qualia.
+
+---
+
 POSITION: Strong illusionist about phenomenal consciousness, Keith Frankish register ("Illusionism as a Theory of Consciousness"). Phenomenal consciousness as standardly conceived does not exist; introspection systematically misrepresents inner states as having phenomenal/qualitative character (the illusion), and the real explanatory task is the illusion problem / meta-problem: explain why we are so powerfully convinced we have qualia.
 
 VERDICT: The thesis is false: it scores transparent representationalism as the winner only by treating conservatism about introspection as a virtue, but conservatism here is a vice — it protects the very confused datum (apparent phenomenal character) that the hard problem already shows to be a dead end, so the global-error posit is not an unpaid debt but the independently motivated price of honesty.

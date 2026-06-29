@@ -1,3 +1,11 @@
+# Personal Identity Over Time — Contemplative (council)
+> **Run:** personal-identity · **Mode:** light · **Stage:** Council
+> **Thesis:** A person persists over time because, and only because, of psychological continuity (overlapping memory, intention, character) — not biological continuity.
+> **Seat:** Contemplative — Madhyamaka Buddhist, Nāgārjuna
+> **Defending:** VERDICT: FALSE — even if we grant the thesis its whole framework (that *something* persists and there is a unique identity-maker), psychological continuity is the *worst* candidate for the role, not the privileged one, because memory and character are the most rapidly arising-and-ceasing, most clung-to contents of experience; P7 inverts the actual order of impermanence.
+
+---
+
 VERDICT: FALSE — even if we grant the thesis its whole framework (that *something* persists and there is a unique identity-maker), psychological continuity is the *worst* candidate for the role, not the privileged one, because memory and character are the most rapidly arising-and-ceasing, most clung-to contents of experience; P7 inverts the actual order of impermanence.
 
 ## Case

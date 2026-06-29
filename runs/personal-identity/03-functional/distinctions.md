@@ -1,3 +1,9 @@
+# Personal Identity Over Time — Functional — distinction watchdog
+> **Run:** personal-identity · **Mode:** light · **Stage:** Functional pass
+> **Thesis:** A person persists over time because, and only because, of psychological continuity (overlapping memory, intention, character) — not biological continuity.
+
+---
+
 DISTINCTION: CONCERNS — 7 issues
 
 ## Equivocation

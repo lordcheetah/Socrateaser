@@ -1,3 +1,9 @@
+# Representationalism vs Illusionism — Reconstruction
+> **Run:** representationalism-vs-illusionism · **Mode:** full · **Stage:** Reconstruct
+> **Thesis:** Transparent representationalism is a better model of phenomenal consciousness than illusionism because it saves the appearances at lower explanatory cost — without convicting introspection of systematic error.
+
+---
+
 ## Standard form
 
 **P1.** The agreed explanandum for any theory of phenomenal consciousness is the manifest datum that experience presents qualitative, felt character to introspection — that is, the fact that introspective reports consistently attribute felt, qualitative character to conscious states.

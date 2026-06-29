@@ -1,3 +1,9 @@
+# Personal Identity Over Time — Crux map
+> **Run:** personal-identity · **Mode:** light · **Stage:** Synthesis
+> **Thesis:** A person persists over time because, and only because, of psychological continuity (overlapping memory, intention, character) — not biological continuity.
+
+---
+
 ## The crux
 
 All six positions agree that biological-organism continuity does not *constitute*

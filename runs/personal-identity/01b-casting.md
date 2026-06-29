@@ -1,3 +1,9 @@
+# Personal Identity Over Time — Casting
+> **Run:** personal-identity · **Mode:** light · **Stage:** Cast
+> **Thesis:** A person persists over time because, and only because, of psychological continuity (overlapping memory, intention, character) — not biological continuity.
+
+---
+
 ## Verdict space
 
 The dispute over personal identity has a standard, century-spanning taxonomy. The serious answers to *this* thesis (psychological continuity is necessary and sufficient for personal identity, against biological continuity):

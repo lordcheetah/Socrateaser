@@ -1,3 +1,9 @@
+# Representationalism vs Illusionism — Lay version
+> **Run:** representationalism-vs-illusionism · **Mode:** full · **Stage:** Communication (lay-readable)
+> **Thesis:** Transparent representationalism is a better model of phenomenal consciousness than illusionism because it saves the appearances at lower explanatory cost — without convicting introspection of systematic error.
+
+---
+
 ## The question, plainly
 
 You're looking at a red apple. There's something it's like to see that red, a felt quality to the experience. Call that felt quality your "phenomenal consciousness," or just "the feel" of seeing red. Two theories fight over what that feel actually is.

@@ -1,3 +1,9 @@
+# Personal Identity Over Time — Reconstruction
+> **Run:** personal-identity · **Mode:** light · **Stage:** Reconstruct
+> **Thesis:** A person persists over time because, and only because, of psychological continuity (overlapping memory, intention, character) — not biological continuity.
+
+---
+
 ## Standard form
 
 **The thesis has two directions because "because, and only because" asserts both necessity and sufficiency. They are reconstructed separately, then joined.**

@@ -1,3 +1,11 @@
+# Representationalism vs Illusionism — Naturalist (council)
+> **Run:** representationalism-vs-illusionism · **Mode:** full · **Stage:** Council
+> **Thesis:** Transparent representationalism is a better model of phenomenal consciousness than illusionism because it saves the appearances at lower explanatory cost — without convicting introspection of systematic error.
+> **Seat:** Naturalist — hard naturalist, Quine–Dennett register
+> **Defending:** VERDICT: FALSE — the thesis wins only by smuggling in SP-D, the unstated premise that conservatism-about-introspection is the *decisive* axis of theory choice; on the naturalist's actual ledger of theoretical virtues, that axis is one weight among several and not the heaviest, so illusionism's leaner ontology and dissolution of the hard problem outscore transparency's conservatism advantage.
+
+---
+
 VERDICT: FALSE — the thesis wins only by smuggling in SP-D, the unstated premise that conservatism-about-introspection is the *decisive* axis of theory choice; on the naturalist's actual ledger of theoretical virtues, that axis is one weight among several and not the heaviest, so illusionism's leaner ontology and dissolution of the hard problem outscore transparency's conservatism advantage.
 
 ## Case

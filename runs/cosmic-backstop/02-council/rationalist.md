@@ -1,4 +1,10 @@
-# Rationalist — blind draft
+# Cosmic Backstop for Morality — Rationalist (council)
+> **Run:** cosmic-backstop · **Mode:** full · **Stage:** Council
+> **Thesis:** There is no accessible cosmic backstop for morality, because warrant requires causal/practical contact and a mind-independent normative ground is by its nature sealed off from such contact.
+> **Seat:** Rationalist — Kantian/rationalist
+> **Defending:** VERDICT: The thesis is FALSE, because its decisive premise (P2) smuggles in a closure claim — that causal or practical "contact" are the only warrant-conferring relations — and the authority of moral norms is in fact constitutive of rational agency itself, so we have access to the backstop not by reaching out to touch it but by being the kind of agents we already are.
+
+---
 
 VERDICT: The thesis is FALSE, because its decisive premise (P2) smuggles in a closure claim — that causal or practical "contact" are the only warrant-conferring relations — and the authority of moral norms is in fact constitutive of rational agency itself, so we have access to the backstop not by reaching out to touch it but by being the kind of agents we already are.
 

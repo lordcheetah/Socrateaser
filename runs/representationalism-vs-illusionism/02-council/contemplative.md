@@ -1,3 +1,11 @@
+# Representationalism vs Illusionism — Contemplative (council)
+> **Run:** representationalism-vs-illusionism · **Mode:** full · **Stage:** Council
+> **Thesis:** Transparent representationalism is a better model of phenomenal consciousness than illusionism because it saves the appearances at lower explanatory cost — without convicting introspection of systematic error.
+> **Seat:** Contemplative — Madhyamaka Buddhist, Nāgārjuna
+> **Defending:** VERDICT: ILL-POSED — the contest presupposes a fixed felt datum and a stable introspector, but sustained first-person attention finds neither standing still long enough to be either "veridically tracked" (transparency) or "systematically misrepresented" (illusionism); the explanandum at P1 is itself a construction, so the comparative bookkeeping never gets a footing.
+
+---
+
 VERDICT: ILL-POSED — the contest presupposes a fixed felt datum and a stable introspector, but sustained first-person attention finds neither standing still long enough to be either "veridically tracked" (transparency) or "systematically misrepresented" (illusionism); the explanandum at P1 is itself a construction, so the comparative bookkeeping never gets a footing.
 
 ## Case
