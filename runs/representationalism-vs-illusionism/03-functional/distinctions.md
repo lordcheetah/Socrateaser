@@ -195,3 +195,145 @@ The following terms and transitions were checked and found stable:
 - **"meta-theoretic" / "theory-choice":** Used consistently to mark the second-order, comparative-virtue level of the dispute. The naturalist, reconstructor, and framer all distinguish this level from the first-order metaphysical level. The council's category bleeds (Crossings 1, 2) cross this line but the distinction itself is not equivocated upon.
 
 - **"SP-D" (axis-weighting):** Correctly identified by naturalist, illusionist, and reconstructor as the suppressed premise that moves from "wins on conservatism" to "is the better model." All uses of this term are consistent with the reconstructor's formulation. The dispute about whether SP-D is true is substantive, but the term is stable.
+
+---
+
+## Refinement 1
+
+DISTINCTION: CONCERNS — 4 new issues; substantive-vs-terminological adjudication below
+
+### New author distinctions: stability audit
+
+**1. END-RESULT vs. CONSTRUCTION of introspection**
+
+The author draws this distinction, the computational-functionalist specialist develops it via Graziano's Attention Schema Theory, and the illusionist's refinement section explicitly accepts it as Graziano's own framing. The realist's refinement also accepts the distinction ("I grant this freely") while arguing it does not touch the phenomenal-realist claim.
+
+Stability verdict: **Stable and doing real work.** The distinction tracks a genuine difference between (a) what the introspective system reports as its output — "I am aware of a red apple" — and (b) the neural/computational story of how that report is generated. The distinction was already implicit in Dennett's heterophenomenology but is here sharpened into an asymmetric reliability claim: reliable about output, unreliable about construction. The term "end-result" is used consistently by the computational-functionalist and implicitly by the illusionist. No equivocation detected.
+
+However, a category bleed requires flagging. The end-result/construction distinction is offered as an **empirical** claim about differential reliability (which parts of introspection track accurately). But it is deployed in the refinement dispute as a **conceptual** resolution of the veridical-vs.-error contest. That move is too fast: showing that introspection is reliable *about output* and unreliable *about construction* does not, by itself, settle whether the output-level report ("I am aware, and the content is red") is phenomenal-realist (there is something it is like) or illusionist (the output is a functional state misrepresented as phenomenal). The distinction filters where error lives, but it does not fix which camp owns the output-level fact. The computational-functionalist elides this by treating the output as "thin" by stipulation; the realist accepts the construction/output split and then re-inserts the phenomenal given at the output level. Both are consistent uses of the same distinction — they just disagree on what the output level contains, which is exactly the original dispute one level down.
+
+**2. THIN vs. THICK qualia**
+
+The author explicitly adopts thin qualia (qualia as representations, nothing intrinsic over and above them). The framer pre-pinned this distinction at stage 0. The computational-functionalist uses it as the central distinction throughout. The illusionist's refinement section confirms that Frankish's illusionism targets precisely thick qualia (intrinsic, ineffable, classical), and that thin qualia — functional representations that do real work — are affirmed by illusionism, not denied.
+
+Stability verdict: **Stable and doing real work, but requires one precision fix.** The thin/thick split is the clearest structural clarification in the refinement round. Every camp can state its position in these terms: realists affirm thick qualia, everyone else denies them. The precision fix: "thin qualia" as used by the author and the computational-functionalist means *the representation itself, nothing more* — which is what the illusionist also means by "what is real" after the thick property is subtracted. But the transparency-representationalist (Tye, Dretske, Harman as characterized in P3) uses "phenomenal character" in a sense that sits *between* thin and thick: they deny intrinsic non-relational qualia (so not thick) but still claim introspective veridicality about the felt character as such (so not merely a functional representation in the Graziano-register). This middle position is what P3 is committed to, and the thin/thick dichotomy, as the author uses it, does not have a slot for it. If "thin" just means "the representation," then P3 as stated is false — because P3 claims introspection is *veridically tracking felt qualitative character*, which is a stronger claim than "introspection reads off the representation." The author's thin qualia resolve neatly into illusionism, not into transparency's P3.
+
+**3. "Veridical" recast as USEFUL CORRELATION (not 1:1 correspondence)**
+
+The computational-functionalist introduces this recast explicitly: a representation need not map isomorphically onto a worldly property to be veridical; it need only "correlate usefully for the self." The framer had already flagged the multiple senses of "veridical" as an equivocation risk. This recast is an attempt to deflate the veridicality claim in P3 enough to survive illusionist pressure.
+
+Stability verdict: **Introduces a new equivocation rather than resolving the old one.** "Useful correlation" is an epistemic/functional notion — accuracy as pragmatic fit for the system. "Veridical" in the thesis's P3 means truth-tracking about representational content (the sense flagged as Equivocation 3 in the original report). These are different standards:
+
+- *Truth-tracking veridical*: introspection correctly identifies the intentional object of the experience (what the experience is *of*).
+- *Useful-correlation veridical*: the representation reliably guides adaptive behavior for this body in this environment.
+
+A state can be useful-correlation-veridical while being truth-tracking-false (inverted qualia are a canonical case: the representation reliably guides behavior while the felt character may be inverted). The recast therefore does not save P3 in its thesis-standard sense; it substitutes a weaker, different standard and then treats P3 as vindicated. That is a category bleed: a normative/functional standard (useful fit) is deployed where an epistemic standard (truth-tracking about the nature of the state) was required. The recast should be flagged, not endorsed, as a clarification.
+
+**4. "FELT BEING REAL" vs. "SIMULATING FELT BEING REAL"**
+
+The author reports no perceptible difference between these. The illusionist's refinement section accepts this: "There is no difference — and saying so is precisely my position." The illusionist's argument is that denying the felt-real/simulating-felt-real distinction just *is* the denial of thick-qualia Fact B, and that denial is the load-bearing premise of illusionism.
+
+Stability verdict: **The distinction is stable in meaning but the author's use of it is self-undermining for the thesis.** Here is the precise verdict: the author's claim that felt-being-real and simulating-felt-being-real are indistinguishable is not a conceptual confusion — it is a substantive metaphysical commitment. Specifically, it is the commitment that there is no "Fact B" (an actual phenomenal property over and above the representing). That commitment is exactly what separates the illusionist from the phenomenal realist. The author, by endorsing the indistinguishability, has taken the illusionist's side on the one wall in the debate. This is not a terminological matter. The phenomenal realist's entire case (Goff, Block, Chalmers) is that the distinction *is* real — that there is a difference between representing-as-phenomenal and being-phenomenal, and that the felt quality is on the being-side, not merely the representing-side. By saying there is no such difference, the author affirms illusionism's central metaphysical claim.
+
+**5. The rationalist's charge: "QUALIA IS THE REPRESENTATION" equivocates NECESSITY for CONSTITUTION**
+
+The rationalist's refinement section addresses this directly under point (b). The argument: "Qualia can't be none" establishes a *necessity* claim — a mind with no felt character would not be a functioning mind. But necessity of co-presence does not entail constitution. The rationalist's TV analogy makes this precise: the signal is necessary for the display, and they are perfectly correlated, but the signal does not *constitute* the displayed light — they are different things standing in a reliable causal/functional relation. Identification of the display with the signal would be false.
+
+Stability verdict: **The rationalist's charge is well-formed and the equivocation is real.** The move from "qualia can't be none" (necessity) to "qualia IS the representation" (constitution/identity) is invalid as stated. Necessity of co-presence is one kind of claim; identity or constitution is another. The following are all compatible with necessity and fail to establish constitution:
+
+- *Supervenience*: wherever there is representation, there is felt character, but felt character is a further fact.
+- *Correlation*: the two always go together without either constituting the other.
+- *Grounding*: representation grounds felt character without being identical to it.
+
+The author's phrasing "qualia IS the representation" is therefore an identity claim that the necessity argument does not support. However — and this is the crucial watchdog precision — the rationalist's charge that this equivocates *necessity for constitution* is correct only if we grant that necessity and constitution are distinct. The illusionist's refinement section argues that once thick Fact B is denied, there is nothing for "constitution" to mean over and above "is reliably present with" — and then necessity and constitution collapse. Whether that collapse is coherent is itself the dispute. So: the rationalist's charge is a genuine equivocation flag *conditional on thick qualia being in play*; if the author is already operating with thin qualia only, the equivocation dissolves because "constitution" means something weaker.
+
+---
+
+### Is the gap between the author's view and strong illusionism substantive or terminological?
+
+**Adjudication: Predominantly terminological, with one narrow substantive residue.**
+
+The illusionist's refinement section argues that the author has independently reconstructed the Graziano/Frankish position and then declined the word "illusion." This watchdog can confirm the mapping is accurate across the four commitments the illusionist tabulates: thin qualia, output-reliable/construction-unreliable introspection, Graziano-register machinery, and "nothing left over beyond the representation." All four are illusionist commitments and all four are author commitments.
+
+The word "illusion" is the surface site of disagreement. Graziano himself objects to the word while accepting the substance, and Frankish retains Graziano on the illusionist roster. This is a confirmed intramural terminological dispute within the illusionist camp.
+
+The one candidate for a substantive residue is the author's claim that "the output — I am aware of the red apple — is veridical." The illusionist says introspection's output-level report is a misrepresentation: it represents the state as having phenomenal character it does not have. The author says the output report is correct because there *is* awareness and the content *is* thus-and-so. The question is whether "phenomenal character" and "awareness + content" are the same target.
+
+Here is the precise verdict. If "phenomenal character" means thick qualia (Fact B, intrinsic felt quality over and above the representing), then:
+- The author denies thick qualia.
+- The illusionist denies thick qualia.
+- Both agree the introspective attribution of thick qualia is an error.
+- The residue is terminological.
+
+If "phenomenal character" means the thin output-level fact (there is awareness, and it has such-and-such content), then:
+- The author says introspection is veridical about this.
+- The illusionist says this too: the functional state is real, the report that it is running is correct.
+- Again, both agree.
+- Again, the residue is terminological.
+
+The only place where the gap could be substantive is if the author means to claim something *between* thin and thick — something that deserves the label "phenomenal" but is not the classical thick quale. The Graziano schema is exactly this: the attention schema represents awareness as having a property (non-physical, inner, immediate) that it does not have — and *that misrepresentation* is what gets called an illusion by Frankish, while Graziano resists the word because the schema and what it models are both real. If the author is claiming that the schema's output (representing-as-having-awareness) is veridical about *the schema's content* rather than veridical about a phenomenal property, then the author and the illusionist agree again — this just is Graziano's position, and it is illusionism on Frankish's taxonomy.
+
+**Conclusion:** The gap is terminological with respect to the metaphysics, and substantive only with respect to the rhetorical frame: "illusion" connotes global deception, which the author (and Graziano) resist because the functional states and the awareness-output are real. Frankish's usage is technical and narrower than the connotation — the misrepresentation is specifically the attribution of the thick phenomenal property, not the denial of functional consciousness. Once the author understands "illusion" in Frankish's technical sense (misrepresentation of thick property only), the disagreement collapses. The thesis, as originally formulated — that transparency is *better* than illusionism — cannot be supported by the author's own stated commitments, because those commitments are illusionist commitments that deny P3.
+
+---
+
+### Plain-language glossary of the 5-6 load-bearing terms (per-camp)
+
+Below is the glossary the author asked for. Each entry gives the term and then states, in plain language, what each camp means by it.
+
+---
+
+**QUALIA** (also called "phenomenal character," "felt quality," "what it is like")
+
+- *Transparency representationalism (the thesis's view):* The feel of an experience — the redness you experience when you see a tomato. The thesis claims this feel is just what it's like to represent the tomato's redness; no extra ingredient is needed. You see redness *out there*, and that seeing is the feel. Nothing is left over inside.
+- *Illusionism (Frankish/Graziano):* The functional brain state that represents "I am aware of red" is real. But the *special inner glow* — the intrinsic, private, ineffable feel — that introspection says accompanies it does not exist. What feels like an inner glow is just a simplified, schematic report the brain makes about its own activity. The brain claims to have magic inner feels; it does not; the claiming is the "illusion." What does exist: the representation, the awareness, the content. What does not exist: any extra property *on top of* the representation.
+- *Phenomenal realism (Chalmers/Goff):* The felt quality is a real feature of the world — not reducible to how the brain processes information, not identical to any representational content. When you see red, there is a definite, irreducible what-it's-likeness to that seeing. This cannot be explained away as "just representation." It is the one thing we know most directly, from the inside.
+- *Rationalist (Levine/Kripke):* Whatever "what it is like" picks out, it cannot be fully explained by any account of how the brain processes information — including representational accounts. There is a gap between the processing story and the felt story that no identity claim closes.
+
+---
+
+**INTROSPECTION** (as in: is it reliable?)
+
+- *Transparency representationalism:* When you attend carefully to your experience, you find the world — the redness out there, not an inner mental patch. Introspection is broadly reliable: it correctly tells you that your experience is about the world, and about what properties of the world it is about.
+- *Illusionism:* Introspection is reliable about *what* you are aware of (the red apple, not the blue cube) and about *that* you are aware. It is unreliable about *how* awareness is built — it tells you awareness is a mysterious inner glow; it is actually a representational process. The self-model is like a dashboard gauge: accurate about the reading, inaccurate about the engine.
+- *Phenomenal realism:* Introspection is the one faculty that gives direct access to phenomenal properties. You cannot be wrong that there is *something it is like* to be in your current state, even if you can be wrong about many details of its construction.
+- *Rationalist:* Introspection may be reliable in the output sense, but it cannot tell us whether felt character is identical to or merely correlated with representational content — that question outruns introspection's authority.
+
+---
+
+**VERIDICAL** (as in: is introspection veridical?)
+
+- *Transparency representationalism (P3):* Introspection is veridical in that it correctly delivers the intentional object — what the experience is about (the redness of the tomato, the location of the pain). Felt character just is that intentional directedness, correctly tracked.
+- *Illusionism:* The output report ("I am aware of red") is veridical — the system really is in that state. The construction report ("this awareness has an ineffable inner glow") is not veridical. So: partially veridical, partially not, but the partially-not is systematic and specific.
+- *Computational-functionalist gloss (Graziano):* Veridical means "useful correlation for this body in this environment," not "mirrors the world 1:1." A representation that reliably guides action is veridical enough; it need not reproduce the intrinsic nature of its target.
+- *Phenomenal realism:* Introspection is veridical about the existence and felt character of experience — you cannot be wrong that you are having an experience with *some* felt quality, even if you can be wrong about many details.
+- *Rationalist:* Veridical requires that what introspection delivers (felt character) is genuinely what the brain state is — i.e., that the identity claim (felt character = representational content) is true. But that identity is not established, so veridicality of the thick sort cannot be assumed.
+
+---
+
+**ILLUSION** (as in: illusionism says introspection is an illusion)
+
+- *Frankish (illusionism):* A highly specific technical term. "Illusion" means: introspection misrepresents your brain states as having a particular property (thick phenomenal quality — private, ineffable, intrinsically qualitative) that they do not have. The brain states themselves are real. The awareness is real. The content is real. The *extra property* (the one that would make the hard problem hard) is the thing falsely attributed. Frankish does not mean "experience doesn't exist" — he means "experience lacks the magical ingredient introspection says it has."
+- *Graziano (AST):* Dislikes the word "illusion" for exactly this reason: it sounds like experience doesn't exist, which is false. The model and what it models are both real. What is false is the model's claim that awareness is non-physical and intrinsically qualitative. Graziano's preferred frame: the self-model is a simplified representation that is accurate about awareness-as-output and inaccurate about awareness-as-construction.
+- *Author:* Resists "illusion" for Graziano's reason. Concurs with the substance: there is nothing left over beyond the representation, so the thick phenomenal property is not real. Disagrees only that calling this an "illusion" is the right frame.
+- *Phenomenal realism:* "Illusion" is what the illusionist calls the most fundamental datum we have — the felt quality itself. This makes the error theory self-undermining: to *have an illusion of phenomenality* is already to have a phenomenal experience (of the illusion). The illusion must itself be phenomenal, so denying phenomenality with an illusion argument bites its own tail.
+
+---
+
+**THE EXPLANATORY GAP** (also called "the hard problem")
+
+- *Transparency representationalism:* Not a real gap in nature — a gap in our description, which closes when we correctly identify felt character with representational content. Once you see that the feel of red just is representing redness, there is nothing left to explain.
+- *Illusionism:* Not a gap in nature — a gap manufactured by introspection's false self-report. The hard problem is hard because introspection tells us there is a non-physical inner feel that needs to be fitted into the physical world. Strip the false report and the hard problem becomes the tractable "illusion problem": explain why the brain represents itself as having a non-physical property.
+- *Phenomenal realism:* A real gap in nature. Even after every fact about how the brain represents and processes information is filled in, the question "why is there something it is like to be in that state?" remains unanswered — because that question is about a *different kind of fact* (qualitative, felt) than the facts neuroscience traffics in (structural, functional, relational).
+- *Rationalist:* A real gap in our conceptual scheme, established by the fact that the question "why does this processing feel like anything?" remains intelligible no matter how much processing detail you add. Whether it is also a gap in nature is a further question; the conceptual gap alone is enough to defeat any identification claim that fails to close it.
+- *Contemplative:* A manufactured gap — but not because one theory has the right answer. Both "the feel is real" and "the feel is an illusion" presuppose a fixed felt item and a stable introspector. Careful first-person attention finds neither standing still. The gap has no edges to be real or unreal.
+
+---
+
+### New clean joints (Refinement 1)
+
+- **"END-RESULT" / "CONSTRUCTION" (Graziano-register):** Used consistently across the computational-functionalist, illusionist refinement, and realist refinement. All three agree on the distinction's meaning: end-result = the introspective output report; construction = the neural/computational process generating it. The dispute is about what the end-result report commits us to, not about the distinction's meaning.
+
+- **"THIN qualia" vs. "THICK qualia":** Stabilized in the refinement round. All camps accept this dichotomy. The substantive dispute is entirely about whether thin qualia suffice for the phenomenal datum, not about what the dichotomy means.
+
+- **"USEFUL CORRELATION" (computational-functionalist recast of veridical):** Newly introduced term; consistent in the computational-functionalist's use, but not adopted by other seats. Flagged above as introducing a new equivocation (functional/normative standard substituted for epistemic standard), not resolving the old one.

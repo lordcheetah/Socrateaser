@@ -219,3 +219,111 @@ ATTRIBUTION: CONCERNS — 4 issues
 3. **UNVERIFIABLE — Illusionist specialist / Chalmers "Debunking" 2020 exact phrasing:** Paper and thesis confirmed; primary PDF unreadable. The specialist flagged this limitation honestly.
 
 4. **OVERSTATED (minor) — Contemplative / SEP Abhidharma "conceptual overlay":** The SEP confirms *santāna*, *citta*, *cetasika*, and the appearance of continuity through rapid succession, but does not use the phrase "conceptual overlay" or emphasize *prajñapti* in the passage cited. The contemplative adds one interpretive step beyond the cited source's explicit text.
+
+---
+
+## Refinement 1
+
+ATTRIBUTION: CONCERNS — 2 issues (new material; prior issues carry forward)
+
+### New claims checked — Refinement 1
+
+---
+
+#### COMPUTATIONAL-FUNCTIONALIST SPECIALIST (new seat)
+
+---
+
+**Voice → who:** Computational-functionalist → Graziano, *Frontiers in Robotics and AI* 2017 — "the brain is captive to its own information"; the apple / subjective-awareness passage; the brain "arrives at the claim that it possesses a non-physical, subjective awareness and assigns a high degree of certainty to that extraordinary claim"; engineering buildability
+**The claim:** Graziano's AST holds that the brain's attention-schema is a self-model of attention; the system "is captive to its own information" and cannot access the underlying neural machinery, so when asked about it, it reports "I am simply subjectively aware of the apple"; the stated purpose of AST is to explain how an information-processing device arrives at a high-certainty claim of non-physical subjective awareness; the system "could be built in principle."
+**What the source says:** The 2017 Frontiers paper was fetched directly. All four claims are confirmed: (1) "The machine is captive to its own information. It knows only what it knows." — verbatim. (2) The machine reports "I have a mental grasp of the apple" and cannot describe its physical properties, claiming the possession as non-physical — confirmed in the "Grasping an Apple" section. (3) The abstract states the theory explains "how an information-processing device, the brain, arrives at the claim that it possesses a non-physical, subjective awareness and assigns a high degree of certainty to that extraordinary claim" — verbatim. (4) "Given current technology, it should be possible to build a machine that contains a rich internal model of what consciousness is, attributes that property of consciousness to itself" — confirmed (the specialist's paraphrase "could be built in principle" accurately captures this).
+**Verdict:** ACCURATE
+**Note:** The specialist's note flagging that the "TV with no display" and "incomplete model leaves out the eye and brain" formulations are reconstructions in the specialist's own words (not verbatim Graziano) is honest and correct. These are paraphrases grounded in the cited passages; no false-quotation failure.
+
+---
+
+**Voice → who:** Computational-functionalist → selfawarepatterns.com 2022 summary of Graziano — "simplified in a way that optimizes it for adaptive feedback, not for purposes of understanding the mind"
+**The claim:** The self-model is "simplified in a way that optimizes it for adaptive feedback, not for purposes of understanding the mind," cited to the 2022 selfawarepatterns article.
+**What the source says:** The 2022 selfawarepatterns article was fetched. The phrase "optimized for adaptive feedback, not for purposes of understanding the mind" does NOT appear in that article. The phrasing was traced to the 2019 selfawarepatterns article ("Michael Graziano's attention schema theory"), where it appears as the blogger's paraphrase of Graziano's position — not a direct quote from Graziano. The 2022 article discusses inaccuracy and crude caricature of models but does not contain this specific formulation.
+**Verdict:** OVERSTATED (source misidentified; the phrasing is a blogger's paraphrase in a different article, not the cited 2022 source)
+**Note:** The underlying idea — that the attention schema is a simplified model not designed for accurate self-understanding — is consistent with Graziano's published position. The error is that the specialist attributed the specific wording to the 2022 selfawarepatterns article when it appears (as a paraphrase, not a quotation) in the 2019 selfawarepatterns article. No Graziano primary text uses this exact phrasing. The philosophical content is not distorted, but the citation is imprecise and the phrasing should not be treated as a quotation from either Graziano or the cited 2022 source.
+
+---
+
+**Voice → who:** Computational-functionalist → Behavioral Scientist Q&A with Graziano — qualia as useful representations ("not exactly reality, but close enough to be useful"); models simplified for adaptive feedback; "something that could be built in principle"
+**The claim:** Graziano says "from an immense amount of input, we create a representation, which is not exactly reality, but close enough to be useful"; AST "could be built in principle."
+**What the source says:** Both passages confirmed verbatim from the fetched Behavioral Scientist Q&A: "From an immense amount of input, we create a representation, which is not exactly reality, but close enough to be useful" — exact. "What we have is essentially something that could be built in principle. We think it will one day be built." — exact.
+**Verdict:** ACCURATE
+**Note:** None.
+
+---
+
+**Voice → who:** Computational-functionalist → Metzinger, *Being No One* (MIT Press, 2003) via phantomself.org — "no such things as selves exist in the world: nobody ever had or was a self"; the self as the content of a transparent self-model; transparency "consists in our unawareness of it as a model"
+**The claim:** Metzinger holds no selves exist; the phenomenal self is not a thing but an ongoing process, the content of a transparent self-model; transparency means we look "right through it" and take our models for our real selves.
+**What the source says:** Confirmed via multiple sources. The exact formulation "no such things as selves exist in the world: nobody ever had or was a self" and "The phenomenal self is not a thing but an ongoing process; it is the content of a 'transparent self-model'" are confirmed by search results drawing on *Being No One* and by the MIT Press / Penguin Random House book descriptions. The book is confirmed as MIT Press 2003. The "transparency consists in our unawareness of it as a model / we take our models for our real selves" formulation is confirmed in secondary descriptions of the book's central argument.
+**Verdict:** ACCURATE
+**Note:** Primary text not fetched directly (book-length, not available as open HTML). Confirmed through publisher descriptions and multiple secondary sources consistently rendering the same phrases. The specialist's honest note that the phantomself.org URL was cited alongside the MIT Press publisher page is appropriate; the doctrine is correctly attributed.
+
+---
+
+#### ILLUSIONIST SPECIALIST — Refinement 1 section
+
+---
+
+**Voice → who:** Illusionist (Refinement 1) → Frankish, keithfrankish.com/illusionism — names Graziano as an illusionist; "while conscious experiences are real, their supposed phenomenal properties are an introspective illusion"; "conscious experiences themselves are complex functional states of the brain"
+**The claim:** The illusionist's load-bearing "you're already an illusionist" move rests on Frankish explicitly listing Graziano by name as a defender of illusionism on his keithfrankish.com/illusionism page. Also cited: the two characterizing phrases above.
+**What the source says:** The keithfrankish.com/illusionism page was fetched directly. It states: "Today, many philosophers work under the illusionist umbrella, including Andy Clark, François Kammerer, **Michael Graziano**, Daniel Shabasson, and Wolfgang Schwarz." Graziano is named explicitly. Both characterizing phrases are confirmed verbatim: "Conscious experiences themselves are complex functional states of the brain" and "while conscious experiences are real, their supposed phenomenal properties are an introspective illusion." The page also notes that Graziano "finds the term 'illusion' misleading" — consistent with the selfawarepatterns source the specialist cites.
+**Verdict:** ACCURATE
+**Note:** The claim that "Frankish lists Graziano by name as a defender of illusionism" is CONFIRMED. This is the load-bearing move in the illusionist's Refinement 1 section ("Frankish lists Michael Graziano by name as a defender of illusionism"). It checks out.
+
+---
+
+**Voice → who:** Illusionist (Refinement 1) → selfawarepatterns 2022 — "Graziano notes that this is illusionism, but ... finds the term 'illusion' misleading"; "the model and what's being modeled are both real, even if the model implies things that aren't true about its subject"; "as a result of the simplified and imperfect information in that model reaching higher cognition, people believe, think, and claim to have a physically incoherent property"
+**The claim:** These three passages are attributed to the 2022 selfawarepatterns article on Graziano.
+**What the source says:** The 2022 selfawarepatterns article was fetched. All three passages are confirmed in that article: (1) "Graziano notes that this is illusionism, but like me, he finds the term 'illusion' misleading" — verbatim (the blogger's paraphrase of Graziano's stated position). (2) "the model and what's being modeled are both real, even if the model implies things that aren't true about its subject" — verbatim. (3) "as a result of the simplified and imperfect information in that model reaching higher cognition, people believe, think, and claim to have a physically incoherent property" — confirmed (appears in a comment quoting Graziano's original paper).
+**Verdict:** ACCURATE
+**Note:** Item (3) is confirmed as a direct quotation from Graziano's paper appearing in a comment on the selfawarepatterns post. The illusionist specialist's table treats this as a Graziano position (correct) attributed via the selfawarepatterns article (correct). No false-quotation failure.
+
+---
+
+#### REALIST SPECIALIST — Refinement 1 section
+
+---
+
+**Voice → who:** Realist (Refinement 1) → Jackson, "Epiphenomenal Qualia" (1982) — Mary stipulated to know "all the physical information there is to obtain about what goes on when we see ripe tomatoes," explicitly including retinal stimulation and the CNS causal chain
+**The claim:** The realist challenges the author's objection that Mary's knowledge "stops at the external world" by citing Jackson's own stipulation: Mary knows "just which wavelength combinations from the sky stimulate the retina, and exactly how this produces via the central nervous system the contraction of the vocal chords and expulsion of air from the lungs that results in the uttering of the sentence 'The sky is blue.'" The realist attributes this to "Jackson, 'Epiphenomenal Qualia,' 1982; quoted in SEP 'Qualia: The Knowledge Argument.'"
+**What the source says:** The SEP "Qualia: The Knowledge Argument" entry was fetched. The passage is confirmed: Jackson 1982 stipulates Mary knows "just which wavelength combinations from the sky stimulate the retina, and exactly how this produces via the central nervous system the contraction of the vocal chords and expulsion of air from the lungs that results in the uttering of the sentence 'The sky is blue.'" The SEP entry quotes this passage and attributes it to Jackson 1982 (*Philosophical Quarterly* 32: 127–136). The realist's citation form (Jackson 1982; via SEP "Qualia: The Knowledge Argument") is correct. The stipulation does cover retinal and CNS processing.
+**Verdict:** ACCURATE
+**Note:** The realist's counter-argument — that the eye and brain are already inside Mary's knowledge by Jackson's own stipulation — is correctly attributed. The passage is genuine and the citation is accurate.
+
+---
+
+#### RATIONALIST — Refinement 1 section
+
+---
+
+**Voice → who:** Rationalist (Refinement 1) → Chalmers, "Facing Up to the Problem of Consciousness" — the gene/experience contrast; "nontrivial further question"; "why doesn't all this information-processing go on 'in the dark'"
+**The claim:** The rationalist's response to the "North Pole" regress objection rests on Chalmers' gene/experience contrast: understanding DNA's storage-and-transmission function is sufficient for "gene" (no further question), but understanding discrimination/integration/reporting is not sufficient for "experienced" — "This is a nontrivial further question." Also: "Why doesn't all this information-processing go on 'in the dark', free of any inner feel?"
+**What the source says:** Both passages confirmed verbatim from the fetched consc.net/papers/facing.html primary text. The gene passage reads exactly: "if someone says 'I can see that you have explained how DNA stores and transmits hereditary information from one generation to the next, but you have not explained how it is a gene', then they are making a conceptual mistake... But if someone says 'I can see that you have explained how information is discriminated, integrated, and reported, but you have not explained how it is experienced', they are not making a conceptual mistake. This is a nontrivial further question." The "in the dark" passage is confirmed: "Why doesn't all this information-processing go on 'in the dark', free of any inner feel?"
+**Verdict:** ACCURATE
+**Note:** Both passages were verified directly from the primary HTML text. The rationalist's use of "nontrivial further question" is verbatim Chalmers. The gene/experience contrast is faithfully reproduced in summary.
+
+---
+
+#### CONTEMPLATIVE — Refinement 1 section
+
+---
+
+**Voice → who:** Contemplative (Refinement 1) → Candrakīrti, *Madhyamakāvatāra* VI — sevenfold reasoning of the chariot; prongs (6) "not the mere collection or composite of the parts" and (7) "not the shape or configuration of the parts"; the whole is real as a dependent designation (*prajñapti*), not as an independently existing entity
+**The claim:** Candrakīrti's sevenfold chariot reasoning (from *Madhyamakāvatāra* VI) has prongs (6) and (7) directed specifically at mereological "adding up" views: (6) the self/chariot is not the mere collection of its parts, and (7) not the shape/configuration of parts. Yet the chariot "exists by way of convention" — as a dependent designation upon parts assembled and functioning. The terms *prajñapti* and *ucchedavāda* (annihilationism) are also invoked.
+**What the source says:** The Rigpa Wiki "Sevenfold reasoning of the chariot" entry confirms: the reasoning is from Candrakīrti's *Madhyamakāvatāra*, it analyzes whether a self/chariot can be (1) identical to its parts, (2) different from its parts, (3) the basis of parts, (4) dependent on parts, (5) possessor of parts, (6) the mere collection of parts, (7) the shape of parts — and concludes none of these locate an inherently existing self, yet the self/chariot exists conventionally as a designation upon parts. Prongs (6) and (7) — "not the mere collection or composite" and "not the shape or configuration" — are confirmed as genuine prongs of the sevenfold analysis. The source text is confirmed as *Madhyamakāvatāra* Chapter VI. *Prajñapti* (conventional designation) is confirmed as the positive account: the self is nominally existent as a dependent designation. *Ucchedavāda* (annihilationism) is a standard Madhyamaka term for the nihilist extreme the analysis avoids; confirmed in standard secondary literature.
+**Verdict:** ACCURATE
+**Note:** The contemplative's fidelity rule was obeyed: the MMK verses (Garfield translations) are the only direct quotations; the sevenfold reasoning summary and *prajñapti*/*ucchedavāda* terms are paraphrased from cited sources, not placed in quotation marks. No misattributed quotes. The *Madhyamakāvatāra* Chapter VI attribution is correct. One minor note: the contemplative references "MMK 18.1, 22.1, paraphrased, not quoted, as I could not re-fetch Garfield's exact wording this run" — this is honest flagging. The doctrinal claim (that the liberated person is not findable as identical to, nor different from, nor possessing the aggregates) is accurate to standard MMK scholarship; the self-acknowledged non-quotation is appropriate practice.
+
+---
+
+### Summary of new issues (Refinement 1)
+
+5. **OVERSTATED — Computational-functionalist / Graziano "optimized for adaptive feedback" phrasing:** The specialist cited the 2022 selfawarepatterns article for this phrase, but it does not appear there. It appears in the 2019 selfawarepatterns article as the blogger's paraphrase (not a direct Graziano quotation). The philosophical content is accurate; the citation is wrong and the phrasing should not be treated as a quotation from any primary source.
+
+No new issues on: (1) Frankish naming Graziano as illusionist — CONFIRMED verbatim; (2) Metzinger PSM claims — ACCURATE; (3) Graziano "captive to its own information" / engineering adequacy — ACCURATE; (4) Chalmers gene/experience contrast and "nontrivial further question" — ACCURATE verbatim; (5) Jackson's Mary stipulation including retina and CNS — ACCURATE verbatim via SEP; (6) Candrakīrti sevenfold chariot prongs (6) and (7) — ACCURATE; (7) Contemplative fidelity rule — obeyed throughout.

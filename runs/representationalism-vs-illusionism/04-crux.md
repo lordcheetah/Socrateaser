@@ -1,224 +1,297 @@
 # Representationalism vs Illusionism — Crux map
-> **Run:** representationalism-vs-illusionism · **Mode:** full · **Stage:** Synthesis (crux map)
+> **Run:** representationalism-vs-illusionism · **Mode:** full · **Stage:** Synthesis (crux map · refinement 1)
 > **Thesis:** Transparent representationalism is a better model of phenomenal consciousness than illusionism because it saves the appearances at lower explanatory cost — without convicting introspection of systematic error.
 
 ---
 
+> **Refinement 1 delta (orchestrator note).** The baseline crux map (preserved in
+> git at the prior commit of this file) located the fork at the *meta-level* SP-I
+> (is introspective conservatism a genuine virtue?), with the object-level SP-A
+> (does content constitute feel?) downstream of it. Refinement 1 made the author's
+> own view explicit as a voiced specialist (computational/functionalist
+> representationalism — Graziano · Metzinger · Dennett register) and ran four
+> author challenges through the council. **The result relocates the crux that
+> matters to the author.** SP-I and SP-A remain the fork for the *stated thesis*;
+> but the author's developed view does not actually defend the stated thesis — it
+> denies its load-bearing P3 — so the author's real disagreement has migrated off
+> the "representationalism vs illusionism" axis (now largely terminological for the
+> author) and onto a single phenomenal-realism question: **is there a Fact B?**
+> The map below is rewritten around that migration.
+
 ## The crux
 
-There is one fork, and it sits one level above where the loudest fight happens. The
-object-level question everyone shouts about — **does representational content
-*constitute* felt character or merely re-label it (SP-A / P3)?** — is downstream of a
-quieter meta-level question that decides whether the thesis's whole scorecard is the
-right one: **is conservatism about introspection a genuine epistemic *virtue*, such
-that not-convicting-introspection-of-error is a real explanatory debt, or is it a mere
-folk-intuition preference that mature theory may discard for free (SP-I)?** Grant SP-I
-and the dispute collapses onto SP-A, where it is a standing, possibly unsettleable
-disagreement about whether the explanatory gap is real. Deny SP-I — as the naturalist
-and illusionist do — and the thesis loses before SP-A is ever reached, because "saving
-the appearance" stops counting as a cost the other side has to pay. **The real fork is
-meta-level (is saving the appearance even the right standard?); the object-level fork
-(does content constitute feel?) is the one the meta-fork licenses you to care about.**
+**For the stated thesis, the fork is unchanged:** it sits at SP-I (is
+not-convicting-introspection-of-error a real explanatory debt, or a free-to-discard
+folk preference?), with SP-A (does representational content *constitute* felt
+character, or merely re-label it?) downstream.
+
+**For the author's actual view, refinement 1 moved the crux to a different premise
+entirely, and it is a single yes/no:** *is "felt being real" distinct from
+"representing/simulating felt being real" — is there a Fact B, an actual phenomenal
+property over and above the representing?* The author says there is no such
+distinction ("a distinction without a difference"). The phenomenal realist says
+that distinction is the whole debate and the felt quality lives on the being-side.
+Everyone else in the run — illusionist, naturalist, contemplative, and the author's
+own voiced specialist — denies Fact B. **So the author's live opponent is no longer
+illusionism (with whom the author shares the denial of Fact B and disputes only the
+word "illusion") but the phenomenal realist, over whether the no-Fact-B denial is a
+discovery or an evasion.** The constructive/engineering-adequacy axis the author
+proposes is a real third axis, but it answers a different question (which model can
+be *built*) and does not touch the realist's existence-of-feel point, so it cannot
+settle this crux — it can only decline to engage it.
 
 ## Position map
 
-- **Phenomenologist (TRUE, @ P3 strong-identity form).** Defends the thesis. Non-negotiable
-  commitment: the diaphanousness datum is a *veridical* phenomenological report — careful
-  attention discloses only world-directedness, no inner residue, so there is nothing left
-  over to relocate (SP-A holds by there being no second term). To change their mind they
-  would have to concede that "attention finds only the world" fails to settle the
-  *constitution* of character — i.e., grant Block's non-sequitur charge that the objects of
-  introspection being worldly does not entail character is *exhausted* by worldly content.
-  The distinction-watchdog flags this exact move (Crossing 2) as an unbridged
-  phenomenological→metaphysical leap; it is their load-bearing and least-defended step.
+- **Computational/functionalist specialist — the author's own view, voiced
+  (VERDICT: thesis right-conclusion / wrong-axis; NO global error; engineering
+  adequacy decisive).** Thin qualia *are* the brain's evolutionarily-shaped
+  representations; introspection is reliable about its *output* ("I am aware, of
+  red") and wrong about its *construction* (the machinery); the explanatory gap is
+  incomplete-modelling Cartesianism; the self is a real process-model (Metzinger);
+  and the decisive criterion is **constructive/engineering adequacy** — which model
+  lets you build a mind. Non-negotiable commitment: **there is nothing left over
+  beyond the representation** ("qualia IS the representation; it can be changed but
+  can't be none"). To change their mind they would have to grant a Fact B — an
+  intrinsic felt residue the representing is accurate *to* — which is exactly the
+  thick quale they reject as Cartesian residue. What they would have to *own* to
+  hold the view: see "For the author" below — it is that there is no Fact B, i.e.
+  the illusionist's core denial under a name they prefer.
 
-- **Rationalist (FALSE, @ P3 / SP-A via conceivability).** Non-negotiable commitment: SP-A
-  is not *a priori secured* — one can hold the full content-fact fixed and intelligibly ask
-  why this feel, or none, accompanies it (Levine + Kripke's anti-mode-of-presentation point).
-  A relabeling is not an explanation. To change their mind they would have to abandon the
-  demand that a constitution claim be analytically/a-priori transparent before it counts —
-  the naturalist presses exactly this ("a premise can be true without being a priori
-  securable"), and the watchdog confirms (Crossing 1) the rationalist slides from "not
-  a-priori-secured" to "false/insufficient," a step Levine himself refuses.
+- **Illusionist specialist (FALSE; verdict unmoved and sharpened).** The thesis's
+  named opponent. Refinement 1 move: the author has not objected to illusionism —
+  the author has *stated* it. The two-sentence view (functional states real;
+  introspection misattributes a thick phenomenal property that does not exist) is
+  the author's view; the author's "distinction without a difference" *is* the
+  denial of Fact B, which is illusionism's load-bearing premise; Frankish lists
+  Graziano by name (attribution-checker: **CONFIRMED**). Non-negotiable commitment:
+  introspection has no authority about its own *nature*, so "saving the appearance"
+  preserves the very error the hard problem exposes. To change their mind they would
+  have to grant SP-I. The only author/illusionist residue is **terminological** —
+  whether to call the misrepresentation an "illusion" — a dispute Graziano himself
+  has with Frankish *inside* the illusionist camp.
 
-- **Phenomenal realist specialist (FALSE, @ P3 / SP-A via positive acquaintance).** Pincers
-  P3 from the other side: content is a relational/functional notion, felt quality is given
-  with certainty from the inside (Mary, Inverted Earth, Goff's structure/quality gap), so
-  content *cannot* be what quality is. Non-negotiable commitment: the determinate phenomenal
-  given is the one thing known directly and is the explanandum. To change their mind they
-  would have to give up the irreducibility/acquaintance of the given — which the illusionist
-  says is precisely the illusion, and the contemplative says is reified svabhāva. The
-  attribution-checker softened two of their textual hooks (Goff's "quantitative vocabulary"
-  phrasing and Block's "cannot be reduced" are paraphrase, not verbatim) — but the doctrine
-  attributions are accurate, so the position loses no content.
+- **Phenomenal realist specialist (FALSE; verdict unmoved — and now the author's
+  real opponent).** Refinement 1 answered all three author challenges without moving:
+  (a) Mary is *stipulated* to know complete eye-and-brain neuroscience (Jackson's own
+  gloss; attribution VERIFIED), so the gap is a difference *in kind*, not missing
+  detail — "add the eye and brain" adds nothing already in the antecedent; (b) the
+  gap is disanalogous to evolution's gaps (those interpolate within one currency;
+  this is between two currencies, structure vs. what-it's-like); (c) **concedes
+  construction-fallibility freely** — introspection is a lousy theorist of its own
+  mechanism — but says this leaves the *existence of the felt end-result* untouched,
+  and, crucially, that the *same* fallibility undercuts transparency's
+  diaphanousness evidence (the realist's acid dissolves both sides' access to
+  construction, leaving only the felt end-result standing, which is realism's
+  premise). Non-negotiable commitment: **the felt end-result exists and is felt
+  (Fact B)** — razor-thin incorrigibility, not about mechanism or precise quality,
+  only about the existence of a what-it's-likeness. To change their mind they would
+  have to give up that the end-result is *felt* at all — i.e., concede there is no
+  Fact B, which is precisely what the author asks them to concede and they refuse.
 
-- **Naturalist (FALSE, @ P7 / SP-D — axis-weighting).** Concedes P3 and P4 *arguendo* and
-  attacks upstream: conservatism is one Quinean virtue among five with no lexical priority,
-  and it is outweighed here by parsimony and fecundity, so "wins on conservatism" does not
-  yield "better model." Non-negotiable commitment: no faculty, introspection included, gets
-  a privileged pass from the web's holistic trade-offs. To change their mind they would have
-  to grant introspection special standing — i.e., grant SP-I. (Attribution: the Quine virtue
-  list is ACCURATE; one Dennett citation had a wrong DOI — content correct, provenance wrong.)
+- **Naturalist (FALSE, @ P7 / SP-D — axis-weighting).** Conservatism is one Quinean
+  virtue among five with no lexical priority; "wins on conservatism" does not yield
+  "better model." Refinement 1: the author *agreed* this (conservatism-is-1-of-5 is
+  conceded — settled). Non-negotiable: no faculty gets a privileged pass from the
+  web's holistic trade-offs. To change their mind: grant SP-I.
 
-- **Illusionist specialist (FALSE, @ P5 / P6 — conservatism-as-vice).** The thesis's named
-  opponent. Non-negotiable commitment: introspection has no authority about its own nature,
-  so "saving the appearance" of phenomenality is *preserving the very error* the hard problem
-  already exposes; the global-error posit is independently motivated by the hard problem
-  (rebutting SP-B), and trading the hard problem for the tractable illusion/meta-problem is a
-  *gain*. To change their mind they would have to grant SP-I — that conservatism about
-  introspective self-report is a real debt — which is exactly what they deny. (Attribution:
-  taxonomy and key terms ACCURATE; some exact phrasings UNVERIFIABLE from unreadable PDFs,
-  honestly flagged; no content lost.)
+- **Rationalist (FALSE, @ P3 / SP-A via conceivability; verdict unmoved).**
+  Refinement 1 sharpened two charges against the author directly: (1) **"qualia IS
+  the representation" equivocates *necessity* for *constitution*** — the TV argument
+  establishes only that feel is *indispensable* (a necessity claim), not that
+  representation *constitutes or explains* it; the watchdog confirms this
+  equivocation is well-formed (conditional on thick qualia being in play). (2) The
+  author's concession that the why-question may have **no answer** *sinks* the
+  thesis rather than helping: a theory advertising an explanation of something
+  in-principle-unexplainable is overcharging, not paying a low conservatism cost.
+  Non-negotiable: a constitution claim must be more than a renaming. To change
+  their mind: abandon the demand that the identity be explanatorily redeemed.
 
-- **Contemplative (ILL-POSED, @ SP-C — explanandum stability).** Stands outside the
-  contest: sustained first-person attention finds neither a standing felt datum nor a
-  standing introspector (Abhidharma *santāna*, Nāgārjuna's prior-entity analysis), so the
-  binary "veridical vs. erroneous" has no stable relatum to range over. Non-negotiable
-  commitment: the felt given and the introspector are co-arising, own-being-less constructs.
-  To change their mind they would have to grant that something in experience holds still long
-  enough to be either tracked or misrepresented. (Attribution ACCURATE except a minor
-  OVERSTATED gloss — "conceptual overlay" reads more into the SEP than it says; the doctrine
-  stands.)
+- **Contemplative (ILL-POSED; verdict unmoved — and the "no self at all" reading
+  retracted).** Refinement 1 correction: the contemplative never held "no self at
+  all" (that is *ucchedavāda*, annihilationism — the nihilist extreme Madhyamaka
+  rejects). The author's **process-self is granted at the conventional level** —
+  contiguous, parts changing at different rates, a dependent designation that does
+  real work. The single residual disagreement is mereological: whether the parts
+  "add up *into* a whole" with reality *over and above* parts-in-relation
+  (Candrakīrti's prongs 6–7 deny this surplus). Non-negotiable: the felt given and
+  the introspector are own-being-less. Net effect: the process-self, stripped of the
+  surplus whole, *cannot* be the stable introspector the veridical-vs-error contest
+  needs — which *reinforces* ILL-POSED.
 
 ## Convergence
 
-The shared ground is wider than the noise suggests, and it bounds the dispute:
+The shared ground is now wider than the baseline showed, because the author's view
+joined the table and most of the table already denies Fact B:
 
-- **Thick qualia are denied by everyone except the realist.** Transparency theorist,
-  illusionist, naturalist, phenomenologist, and contemplative all reject intrinsic,
-  ineffable, non-relational qualia. This is the near-ally collapse the framer predicted and
-  the watchdog confirmed (CONCERNS): on the first-order ontology, transparency and illusionism
-  are reductive-physicalist *allies*, not rivals.
-- **Everyone agrees on every third-person fact** — brains, reports, behavior. The dispute is
-  not empirical, and no new neuroscience settles it (framer; P7; self-application Angle 1).
-- **Both transparency and illusionism agree introspection does not deliver an inner screen.**
-  They split *only* on whether what introspection *does* deliver is veridical (transparency)
-  or systematically erroneous (illusionism). That single split is the entire non-verbal
-  residue — the watchdog isolates it precisely.
-- **Both sides concede the choice of evaluative axis is itself part of the dispute**
-  (self-application Angle 2): the thesis cannot state "conservatism is decisive" from nowhere,
-  and the illusionist cannot state "parsimony/dissolution is decisive" from nowhere either.
+- **Fact B is denied by everyone except the realist.** Author (no distinction),
+  illusionist (no Fact B), naturalist, contemplative (no svabhāva), and the author's
+  voiced specialist (nothing left over beyond the representation) all reject an
+  intrinsic felt property over and above the representing. The realist stands alone
+  in affirming it. **This is the single wall in the debate, and the author and the
+  illusionist are on the same side of it.**
+- **Author and illusionism share their entire first-order metaphysics.** The
+  distinction-watchdog adjudicates the gap as **predominantly terminological**:
+  across four commitments (thin qualia; output-reliable/construction-unreliable
+  introspection; Graziano-register machinery; nothing-left-over) author and
+  illusionist coincide. The disputed item is the word "illusion" — a dispute
+  Graziano has with Frankish while accepting the substance.
+- **Everyone agrees on every third-person fact** — brains, reports, behavior. The
+  dispute is not empirical; no neuroscience settles it (the author's own
+  Mary-is-incomplete challenge was answered precisely on this ground — more
+  neuroscience is more facts of the *first* kind).
+- **Construction-fallibility is now conceded on all sides.** The author asserts it;
+  the illusionist is built on it; the realist *grants it freely*. This is new shared
+  ground from refinement 1 — and it is double-edged (below).
 
-So the genuine dispute is small in surface area and deep in floor: given agreement on
-ontology and third-person fact, it bottoms out in (1) is introspection veridical or in
-error about whatever is there, and prior to that, (2) does veridicality-about-introspection
-even count as something a theory must pay for.
+So the genuine dispute, with the author's view in play, has shrunk to one question
+with one dissenter: **is there a Fact B?** The author says no; the realist says yes;
+the rest of the room is already at "no."
 
 ## What the functional roles changed
 
-- **The hidden-premise excavator relocated the crux upward.** It promoted SP-I
-  (conservatism-as-virtue) from invisible to co-crux with SP-A. This is the decisive
-  reshaping. The council *fights* at SP-A (three seats converge on P3 as the battleground,
-  watchdog confirms). But the naturalist and illusionist both refuse to fight there at all —
-  they win, by their lights, by denying SP-I one level up, before P3 is in play. SP-I is the
-  hinge on which the two FALSE-from-the-left seats (naturalist P7/SP-D, illusionist P5/P6)
-  actually turn: both reduce to "introspective conservatism is not a real debt." That makes
-  the meta-fork (SP-I), not the object-fork (SP-A), the premise the rest depend on — because
-  if SP-I fails, the thesis's scorecard is rejected and SP-A never gets to be load-bearing.
-- **The distinction-watchdog (CONCERNS, 9) shows how much is verbal and where the residue
-  sits.** Three seats use "phenomenal character" in three different senses; "veridical" splits
-  into veridical-about-content (phenomenologist defends, may be true by Tye's stipulation) vs.
-  veridical-about-felt-character (rationalist/realist attack, requires SP-A first). Much of the
-  P3 "head-to-head" is therefore cross-talk: the phenomenologist defends P3 in the first sense,
-  the realist attacks it in the second. The *non-verbal* residue that survives disambiguation
-  is exactly the veridicality split — and the watchdog's sharpest finding is that even this may
-  rest on a contested setup: the illusionist needs introspection to *assert* thick phenomenality
-  so the assertion can be false, and the phenomenologist replies nobody runs that introspection.
-  If that is right, transparency and illusionism are rivals not about introspection's accuracy
-  but about *whether there was ever an error-susceptible datum* — which folds the residue back
-  toward SP-A and SP-C. The diaphanousness→constitution bleed (Crossing 2) is where the
-  thesis's own defender most clearly overspends; the epistemic↔metaphysical bleed (Crossing 1)
-  is where both the rationalist and realist overspend.
-- **Self-application SURVIVES** — but only with the principled repair: restate the datum as
-  first-person *testimony* (Variant 2). This matters for the map. Unrepaired, the thesis's
-  criterion presupposes SP-C (a stable phenomenal datum), which is exactly what the
-  contemplative and Dennett deny — a question-begging risk. Repaired, the datum becomes "people
-  report felt character" (uncontested by all, Frankish included), and the thesis retreats to "I
-  posit fewer errors in subject testimony." The repair *saves the form but shrinks the claim*:
-  it no longer saves *phenomenal* appearances, only testimony — which weakens the conservatism
-  premium and makes SP-I harder to cash, because conservatism about testimony is cheaper to
-  dismiss as "the price of mature science" than conservatism about felt character.
-- **The counterexamples narrowed but did not refute.** Inverted Earth + Swampman jointly press
-  P7: transparency must buy a contested externalist content semantics (to answer Inverted Earth)
-  that then denies experience to a functional duplicate (Swampman) — a debt illusionism avoids.
-  This strengthens the naturalist's SP-D attack without touching SP-A. Conversely, Case 6
-  (acquaintance asymmetry) is the one case *for* the thesis: it cashes SP-B as a concrete
-  regress — illusionism owes an account of the *seeming* that anchors the illusion. Net: the
-  cases sharpen both flanks of the cost ledger without breaking the thesis as stated.
-- **Attribution CONCERNS were minor and cost no position its content.** One wrong DOI
-  (naturalist's Dennett link), and several unverifiable *exact phrasings* (Husserl LI V, Goff,
-  Chalmers 2020, the Abhidharma "overlay" gloss) where the *doctrine* is correctly attributed.
-  The realist's textual authority is the most softened (two paraphrases reported as if close
-  quotation), but Block's core "phenomenal character outruns representational content" is
-  verbatim-confirmed, so the position holds. No attribution failure moves the crux.
+- **The distinction-watchdog (refinement: CONCERNS, 4 new issues) is the decisive
+  reshaping this round, and it cuts against the author twice.**
+  - It rules the author-vs-illusionism gap **predominantly terminological** (shared
+    metaphysics; the dispute is the word "illusion"). This is what migrates the
+    author's real opponent from the illusionist to the realist.
+  - It rules that **thin qualia resolve into illusionism, not into transparency's
+    P3.** P3 claims introspection *veridically tracks felt qualitative character* —
+    a claim *stronger* than "introspection reads off the representation." The
+    thin/thick dichotomy the author uses has no slot for P3's middle position, so
+    "if 'thin' just means 'the representation,' then P3 as stated is false." **The
+    author's view denies the very premise the stated thesis needs.**
+  - It flags the author's **"veridical = useful correlation"** recast as a *new
+    equivocation*: it swaps a functional/pragmatic standard (adaptive fit) for the
+    epistemic standard (truth-tracking about the nature of the state) that P3
+    required. A state can be useful-correlation-veridical while truth-tracking-false
+    (inverted qualia). So the recast does not rescue P3; it changes the subject.
+  - It confirms the rationalist's **necessity-vs-constitution** equivocation is
+    well-formed — *conditional on thick qualia being in play*. If the author is
+    already thin-only, "constitution" weakens and the equivocation dissolves *into*
+    the no-Fact-B commitment. Either way the author does not get a constitution
+    claim that explains feel.
+- **The attribution-checker (refinement: CONCERNS, 2 issues) confirmed the
+  load-bearing retrieval and softened two phrasings.**
+  - **CONFIRMED, load-bearing:** Frankish names Graziano by name as an illusionist
+    (keithfrankish.com), fetched directly. This is the empirical anchor of the
+    illusionist's "you are already one of us" move; it checks out. The author cannot
+    wave off the classification as the illusionist's rhetoric — it is Frankish's own
+    roster.
+  - **VERIFIED:** Jackson's Mary stipulation does include the full eye-and-brain CNS
+    chain — so the realist's rebuttal to the author's "Mary is incomplete" challenge
+    rests on accurate text, not a convenient reading.
+  - **OVERSTATED (minor):** the specialist's "optimized for adaptive feedback, not
+    for understanding the mind" was sourced to the wrong selfawarepatterns article
+    and is a blogger's paraphrase, not a Graziano quotation. The doctrine is
+    consistent with Graziano; no position loses content. **No attribution failure
+    moves the crux** — and the one that *could* have (the Graziano-is-an-illusionist
+    classification) verified against the author, tightening rather than loosening
+    the map.
+- **From the baseline, still standing:** the hidden-premise excavator's relocation
+  of SP-I to co-crux for the *stated thesis*; self-application SURVIVES only under
+  the testimony repair (Variant 2), which shrinks the claim; the counterexamples
+  (Inverted Earth + Swampman) sharpen the naturalist's SP-D flank. Note the author's
+  "useful correlation" recast was *aimed* at defusing Inverted Earth without buying
+  externalist semantics — the watchdog's verdict is that it defuses it only by
+  abandoning P3's veridicality sense, so the move costs the thesis the premise it
+  was trying to protect.
 
 ## What it would take to settle it
 
-This is a **layered standing disagreement**, settleable at neither layer by the means in play:
+This is **two layered standing disagreements, with the author's view sitting on the
+second**, and neither layer is settleable by the means in play:
 
-- **The meta-fork (SP-I) is a conceptual decision about evidential standing, and it bottoms
-  out in a basic commitment.** Whether first-person introspective report carries genuine
-  evidential weight that a theory must honor, or is folk intuition revisable for free, is
-  exactly the question that divides naturalist/eliminativist from realist/phenomenologist
-  traditions. Nothing in the dispute can compel it: the naturalist's appeal to "follow the
-  best total theory" is itself a norm the rationalist notes is not in the physical inventory
-  (a sharp self-application turn the rationalist made against both naturalist and illusionist).
-  You cannot argue someone into granting introspection authority without already weighting the
-  evidence the way the conclusion requires.
-- **The object-fork (SP-A) is a conceptual dispute that the agreed facts cannot decide.** Both
-  camps stipulate identical third-person facts; the question "does content *constitute* feel?"
-  turns on whether the explanatory gap is real or a mere concept-gap — the unresolved
-  Chalmers-vs-Yablo conceivability dispute the watchdog explicitly flags as not settled here.
-  It is settleable by argument only for someone who already accepts or rejects the gap's
-  metaphysical import — i.e., not settleable across the divide.
-- **The contemplative's ILL-POSED verdict is not a tiebreaker but a third floor:** it denies
-  SP-C, the stable explanandum both forks presuppose. It is a substantive metaphysical
-  intervention (watchdog: a metaphysical objection, not a logical one), so it does not show
-  the thesis is *formally* ill-posed; it relocates the disagreement to whether there is a
-  fixed datum at all.
+- **The stated-thesis fork (SP-I, then SP-A)** remains a conceptual decision about
+  evidential standing (SP-I) over a conceptual dispute about the explanatory gap
+  (SP-A). Unchanged from baseline: not settleable by fact (all parties agree on the
+  facts), not settleable by argument across the divide (each side bottoms out in a
+  basic commitment the other has principled grounds to refuse).
+- **The author's actual fork (is there a Fact B?)** is a **conceptual/metaphysical
+  decision that bottoms out in a basic commitment, and nothing in the dispute can
+  compel it.** The realist cannot produce Fact B to a denier (it is, by their own
+  account, known only from the inside); the author cannot exhibit its absence to the
+  realist (the realist reads the very felt-ness of the end-result as its presence).
+  The author's challenges did not move the realist, and the realist's replies did
+  not move the author — which is the signature of a commitment-level fork, not an
+  argument one side is losing.
+- **The constructive/engineering-adequacy axis is a genuine partial reframe, and it
+  is honest to say what it does and does not do.** On its own terms it *wins*: a
+  build-spec is a real, settleable criterion, and thin representationalism supplies
+  one while eliminative illusionism ("qualia are none") supplies an empty blueprint.
+  But it **does not address the realist's existence-of-feel point.** Building a
+  system that reports awareness with high certainty is exactly what both the author
+  *and* the realist expect a physical mind to do; the realist's claim is that this
+  leaves untouched whether there is something it is like to *be* that system. The
+  engineering axis changes the question from "is there a Fact B?" to "can you build
+  the reporter?" — and the realist's point is that you can answer the second
+  without answering the first. So the new axis relocates the contest to ground the
+  author wins, but it wins by *declining* the realist's question, not by answering
+  it. That is a legitimate move only if there is no Fact B to answer about — which
+  returns us to the crux.
 
-Honest verdict: **not settleable by empirical fact (all parties agree on the facts), and
-not settleable by argument across the divide (each fork bottoms out in a basic commitment —
-the standing of introspective evidence, and the reality of the explanatory gap — that the
-opposing side has principled grounds to refuse).** What *is* establishable, and is the
-deliverable here: the thesis is **conditionally valid** — true *if* SP-I (conservatism is a
-real virtue here) *and* SP-A (content can constitute feel) both hold — and it is asserted
-unconditionally. The crux is the pair of premises it does not defend.
+Honest verdict: the stated thesis is **conditionally valid** (true *if* SP-I and
+SP-A hold) and asserted unconditionally — unchanged. The author's developed view is
+**internally coherent and largely settles its own preferred contest** (engineering
+adequacy) — but it does so by occupying the no-Fact-B position, which is illusionism
+on the watchdog's and Frankish's reckoning, and it leaves exactly one thing
+unanswered that no argument in the run can compel: whether denying Fact B is seeing
+through an illusion or refusing to look at the datum.
 
 ## For the author
 
-The author is a pragmatist who leans toward the thesis (representationalism). On this map,
-that lean sits in an unstable seat — and the map shows two distinct sources of unease, both
-predicted in your own framing.
+Refinement 1 did the author a real service and the system will not flatter the
+result: **your view is coherent, but it is not the thesis you set out to defend, and
+your opponent is not who you thought.**
 
-First, the single premise you would have to defend to keep the lean is **SP-I**, not SP-A.
-Most defenders of the thesis instinctively dig in at SP-A (content really does constitute
-feel). But SP-I is prior: it is what makes "saving the appearance" *count as a cost the other
-side owes*. And SP-I is the premise a pragmatist is *least* positioned to defend, because a
-pragmatist's natural account of conservatism is precisely the deflationary one the
-excavator names as SP-I's denial: conservatism is predictive/practical convenience, not
-metaphysical insight. If conservatism is just "the more useful default," then the naturalist
-and illusionist are right that it can be discarded when a leaner, more fertile theory is on
-offer — and the thesis's central advantage evaporates. To keep the thesis, you must hold that
-not-convicting-introspection-of-error is a *genuine epistemic debt*, which is a more
-realist-flavored commitment than pragmatism usually wants to make.
+1. **You are not "between" transparency and illusionism. On the one wall in this
+   debate — is there a Fact B? — you are standing with the illusionist.** Your
+   "distinction without a difference" between felt-being-real and
+   simulating-felt-being-real *is* the denial of Fact B, and that denial is strong
+   illusionism's load-bearing premise. The distinction-watchdog adjudicated the gap
+   as predominantly terminological; the attribution-checker confirmed Frankish lists
+   Graziano (your own register) by name. The only thing left between you and Frankish
+   is the word "illusion" — and Graziano already has that exact quarrel *inside* the
+   illusionist camp while accepting the substance. So your quarrel with "illusionism"
+   is a quarrel with a label, not a metaphysics.
 
-Second — and this is the bind the casting note anticipated — pragmatism should be uneasy with
-*both* poles the thesis is wedged between. You cannot comfortably take the realist's escape
-(irreducible qualia known by acquaintance): that is the metaphysical given a pragmatist
-treats as an idle wheel. But you also cannot comfortably bank the thesis's conservatism premium
-(SP-I), which leans the other way, toward treating first-person seeming as a standing tribunal.
-The thesis asks you to pay realist-flavored coin (introspective conservatism as real virtue)
-to buy an anti-realist conclusion (character reduces to content). That is the tension the map
-exposes and does not resolve for you.
+2. **Your view denies the stated thesis's load-bearing premise.** The thesis (P3)
+   says introspection is *broadly veridical about felt qualitative character*. You
+   say introspection is *wrong about its construction* and there is *nothing left
+   over* beyond the representation. The watchdog's verdict is blunt: thin qualia
+   resolve into illusionism, not into P3, because P3's veridicality is a stronger
+   claim than "introspection reads off the representation." Your "veridical = useful
+   correlation" recast does not rescue P3 — it substitutes a functional standard for
+   the epistemic one P3 needed. So you cannot hold both "nothing left over" and the
+   thesis. By your own lights, the thesis as stated is false; you reach its
+   *conclusion* (no global error in the output) by *denying* its premise, not
+   defending it.
 
-The honest pragmatist move the system surfaced is the self-application repair (Variant 2):
-drop "saving the phenomenal appearances" and claim only that transparency posits fewer
-divergences from *first-person testimony*, a theory-neutral datum. This is the most defensible
-version of your lean — but it is a strictly weaker thesis. It no longer says representationalism
-better explains *what it is like*; it says representationalism is more conservative about *what
-people say*. Whether that thinner claim still counts as a win over illusionism, or whether the
-naturalist's "departing from testimony is just mature science" rejoinder reclaims the ground,
-is the exact spot where your stake stands or falls. The map does not break that tie. It tells
-you the tie is yours to break, and that the premise you must defend to break it (SP-I) is the
-one your own pragmatism gives you the least leverage on.
+3. **The single thing you would now have to own to hold your view:** bite the bullet
+   that **there is no Fact B** — accept the illusionist's core denial under a name
+   you prefer ("thin representation," "the output is veridical," "schema read
+   through"). That is the whole price, and it is not a terminological dodge: the
+   phenomenal realist will press that your "the output is veridical" either means
+   (a) the *functional state is running* — which the illusionist grants, leaving you
+   an illusionist — or (b) *there is something it is like* to be in that state at the
+   output level — which is Fact B, the thing you said does not exist. You owe an
+   answer to that dichotomy. The realist's sharpest refinement move is that your own
+   construction-fallibility acid dissolves *both* your evidence and transparency's
+   diaphanousness evidence, leaving only the *felt* end-result standing — and the
+   felt end-result is realism's premise. You must either (i) deny the end-result is
+   *felt* (full no-Fact-B; you are an illusionist) or (ii) admit it is felt (you have
+   conceded Fact B and lost your view to the realist). The map cannot make that
+   choice for you; it can only show you that there is no third door, and that the
+   engineering axis — for all its genuine power — walks *past* this door rather than
+   through it.
+
+4. **Your engineering-adequacy axis is your strongest contribution and your real
+   reframe — claim it for what it is.** It converts an unsettleable standoff into a
+   settleable research program, and on its terms thin representationalism beats
+   eliminative illusionism (an empty blueprint) and forces the rest of illusionism
+   to collapse into your view. That is a genuine result. But be honest that it wins
+   by *changing the question* from "is there a Fact B?" to "can you build the
+   reporter?" The realist's existence-of-feel point survives a successful build
+   intact. So the engineering axis is the best home for your stake — but only if you
+   have first paid the price in (3) and own that there is no Fact B. If you will not
+   pay it, the axis does not protect you; it just declines to enter the one room
+   where your view is actually contested.
